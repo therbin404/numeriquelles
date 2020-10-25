@@ -75,6 +75,89 @@ nav {
     padding: 9px 34px;
 }
 
-@media screen and {min-width: 768px} {
+@media screen and (min-width: 1000px) {
+    nav {
+        height: 100px;
+    }
+
+    .logo img {
+        height: 70px;
+    }
     
+    .government img {
+        height: 55px;
+    }
+
+    .responsive {
+        display: none;
+    }
+
+    .menu {
+        width: 60%;
+        position: relative;
+        text-align: center;
+    }
+    
+    .desktop {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: space-content;
+        align-items: center;
+    }
+
+    .firstLevel {
+        position: initial;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: white;
+    }
+    
+    .firstLevel li {
+        padding: 0 10px;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .firstLevel li:hover {
+        background-color: rgba(98, 211, 164, 1);
+    }
+
+    .secondLevel li a,
+    .thirdLevel li a {
+        padding: 10px 15px;
+    }
+
+    #menuSecondLevel {
+        position: relative;
+    }
+
+    .secondLevel {
+        position: absolute;
+        top: 100px;
+        left: 0;
+    }
+
+    #menuThirdLevel {
+        position: relative;
+    }
+
+    .thirdLevel {
+        width: 100%;
+        position: absolute;
+        top: 100px;
+        left: 0;
+    }
+
+    #menuSecondLevel:hover .secondLevel {
+        display: block;
+    }
+
+    #menuThirdLevel:hover .thirdLevel {
+        display: block;
+    }
 }
