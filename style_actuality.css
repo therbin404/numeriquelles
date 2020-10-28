@@ -1,0 +1,29 @@
+img{
+    width: 300px;
+    height: 300px;
+    margin:5%;
+}
+p{
+    font-size: large;
+    text-align: center;
+}
+.toppage{
+    background-image: url('images/womenonstand.jpg');
+    height: 510px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #DAE9F6;
+    height: 400px
+}
+.containertwo{
+    background-color: #DAE9F6;
+}
+.containertwo img{
+    margin-left: 35%;
+}
+.img_line_one{
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
