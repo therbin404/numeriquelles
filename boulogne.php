@@ -14,8 +14,8 @@
     ?>
     <!-- include a jumbotron (general classes) -->
     <div class="event">
-      <h2>Maubeuge</h2>
-      <p>17 novembre</p>
+      <h2>Boulogne</h2>
+      <p>24 novembre</p>
     </div>
       <div class="titleDecoration roadMap">
         <div class="title">
@@ -28,30 +28,10 @@
       <div class="workshops">
         <div class="workshop">
           <div class="head">
-            <div class="title2"><a href="https://www.gipreussir.fr/" title="Lien vers le site web RESA">RESA</a></div>
+            <div class="title2"><a href="https://edouard-branly-boulogne-sur-mer.enthdf.fr/" title="Lien vers le site web Lycée Branly">Lycée Branly</a></div>
             <div class="image">
-              <a href="https://www.gipreussir.fr/" title="Lien vers le site web RESA">
-                <img src="images/logo_resa.png" alt="RESA">
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="workshop">
-          <div class="head">
-            <div class="title1"><a href="https://pierre-forest-maubeuge.enthdf.fr/" title="Lien vers le site web Lycée Pierre Forest Maubeuge">Lycée Pierre Forest Maubeuge</a></div>
-            <div class="image">
-              <a href="https://pierre-forest-maubeuge.enthdf.fr/" title="Lien vers le site web Lycée Pierre Forest Maubeuge">
-                <img src="images/lycée_maubeuge_logo.jpg" alt="Lycée Pierre Forest Maubeuge">
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="workshop">
-          <div class="head">
-            <div class="title2"><a href="https://www.femmes-ingenieurs.org/" title="Lien vers le site web FEMMES INGENIEURS">FEMMES INGENIEURS</a></div>
-            <div class="image">
-              <a href="https://www.femmes-ingenieurs.org/" title="Lien vers le site web FEMMES INGENIEURS">
-                <img src="images/logo_fi.jpg" alt="FEMMES INGENIEURS">
+              <a href="https://edouard-branly-boulogne-sur-mer.enthdf.fr/" title="Lien vers le site web Lycée Branly">
+                <img src="images/logo_branly.svg" alt="Lycée Branly">
               </a>
             </div>
           </div>
@@ -68,40 +48,10 @@
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2"><a href="https://www.intechinfo.fr/" title="Lien vers le site web INTECH SUD - MAUBEUGE">INTECH SUD - MAUBEUGE</a></div>
-            <div class="image">
-              <a href="https://www.intechinfo.fr/" title="Lien vers le site web INTECH SUD - MAUBEUGE">
-                <img src="images/logo_intech.png" alt="INTECH SUD - MAUBEUGE">
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="workshop">
-          <div class="head">
             <div class="title1"><a href="https://www.orientoi.fr/" title="Lien vers le site web ORIENTOI">ORIENTOI</a></div>
             <div class="image">
               <a href="https://www.orientoi.fr/" title="Lien vers le site web ORIENTOI">
                 <img src="images/logo_orientoi.png" alt="ORIENTOI">
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="workshop">
-          <div class="head">
-            <div class="title2"><a href="https://e-catalyst.fr/" title="Lien vers le site web E-CATALYST">E-CATALYST</a></div>
-            <div class="image">
-              <a href="https://e-catalyst.fr/" title="Lien vers le site web E-CATALYST">
-                <img src="images/logo_catalyst.png" alt="E-CATALYST">
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="workshop">
-          <div class="head">
-            <div class="title1"><a href="https://www.citedesgeometries.org/newcdg/" title="Lien vers le site web CITE DES GEOMETRIES">CITE DES GEOMETRIES</a></div>
-            <div class="image">
-              <a href="https://www.citedesgeometries.org/newcdg/" title="Lien vers le site web CITE DES GEOMETRIES">
-                <img src="images/logo_geometris.png" alt="CITE DES GEOMETRIES">
               </a>
             </div>
           </div>
@@ -134,7 +84,7 @@
           <div class="bar"></div>
           <div>
             <p>Accéder au salon virtuel<br>
-            <a href="https://cvirtuelle.phm.education.gouv.fr/numeriquellesmaubeuge">https://cvirtuelle.phm.education.gouv.fr/numeriquellesboulogne</a>
+            <a href="https://cvirtuelle.phm.education.gouv.fr/numeriquellesboulogne">https://cvirtuelle.phm.education.gouv.fr/numeriquellesboulogne</a>
             </p>
           </div>
       </div>
