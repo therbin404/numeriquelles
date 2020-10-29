@@ -28,128 +28,212 @@
       <div class="workshops">
         <div class="workshop">
           <div class="head">
-            <div class="title2">Upcycle Commons</div>
-            <div class="image"><img src="images/logo_upcycle.png" alt="Upcycle Commons"></div>
+            <div class="title2"><a href="https://upcyclecommons.wpcomstaging.com/" title="Lien vers le site web Upcycle Commons">Upcycle Commons</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web Upcycle Commons">
+                <img src="images/logo_upcycle.png" alt="Upcycle Commons">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">Euratechnologies</div>
-            <div class="image"><img src="images/logo_euratech.png" alt="Euratechnologies"></div>
+            <div class="title1"><a href="https://www.euratechnologies.com/" title="Lien vers le site web Euratechnologies">Euratechnologies</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web Euratechnologies">
+                <img src="images/logo_euratech.png" alt="Euratechnologies">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">IBM</div>
-            <div class="image"><img src="images/logo_ibm.png" alt="IBM"></div>
+            <div class="title2"><a href="https://www.ibm.com/fr-fr" title="Lien vers le site web IBM">IBM</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web IBM">
+                <img src="images/logo_ibm.png" alt="IBM">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">FACE MEL</div>
-            <div class="image"><img src="images/logo_facemel.png" alt="FACE MEL"></div>
+            <div class="title1"><a href="http://www.face-mel.fr/?page_id=19" title="Lien vers le site web FACE MEL">FACE MEL</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web FACE MEL">
+                <img src="images/logo_facemel.png" alt="FACE MEL">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">ORANGE</div>
-            <div class="image"><img src="images/logo_orange.png" alt="ORANGE"></div>
+            <div class="title2"><a href="https://www.orange.fr/portail" title="Lien vers le site web ORANGE">ORANGE</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web ORANGE">
+                <img src="images/logo_orange.png" alt="ORANGE">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">DECATHLON</div>
-            <div class="image"><img src="images/logo-decath.png" alt="DECATHLON"></div>
+            <div class="title1"><a href="https://www.decathlon.fr/" title="Lien vers le site web DECATHLON">DECATHLON</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web DECATHLON">
+                <img src="images/logo-decath.png" alt="DECATHLON">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">ORIENTOI</div>
-            <div class="image"><img src="images/logo_orientoi.png" alt="ORIENTOI"></div>
+            <div class="title2"><a href="https://www.orientoi.fr/" title="Lien vers le site web ORIENTOI">ORIENTOI</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web ORIENTOI">
+                <img src="images/logo_orientoi.png" alt="ORIENTOI">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">Lycée Jean Prouvé Lomme</div>
-            <div class="image"><img src="images/LOGO-Jean-PROUVE-2019.png" alt="Lycée Jean Prouvé Lomme"></div>
+            <div class="title1"><a href="http://jprouve-lomme.etab.ac-lille.fr/" title="Lien vers le site web Lycée Jean Prouvé Lomme">Lycée Jean Prouvé Lomme</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web Lycée Jean Prouvé Lomme">
+                <img src="images/LOGO-Jean-PROUVE-2019.png" alt="Lycée Jean Prouvé Lomme">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">SIMPLON HDF</div>
-            <div class="image"><img src="images/logo_simplon.png" alt="SIMPLON HDF"></div>
+            <div class="title2"><a href="https://simplon.co/" title="Lien vers le site web SIMPLON HDF">SIMPLON HDF</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web SIMPLON HDF">
+                <img src="images/logo_simplon.png" alt="SIMPLON HDF">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">LA REDOUTE</div>
-            <div class="image"><img src="images/logo_laredoute.png" alt="LA REDOUTE"></div>
+            <div class="title1"><a href="https://www.laredoute.fr/" title="Lien vers le site web LA REDOUTE">LA REDOUTE</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web LA REDOUTE">
+                <img src="images/logo_laredoute.png" alt="LA REDOUTE">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">AXA FRANCE</div>
-            <div class="image"><img src="images/AXA_Logo.svg" alt="AXA FRANCE"></div>
+            <div class="title2"><a href="https://www.axa.fr/" title="Lien vers le site web AXA FRANCE">AXA FRANCE</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web AXA FRANCE">
+                <img src="images/AXA_Logo.svg" alt="AXA FRANCE">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">POP SCHOOL</div>
-            <div class="image"><img src="images/logo_popschool.png" alt="POP SCHOOL"></div>
+            <div class="title1"><a href="https://popschool.fr/" title="Lien vers le site web POP SCHOOL">POP SCHOOL</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web POP SCHOOL">
+                <img src="images/logo_popschool.png" alt="POP SCHOOL">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">CORIF</div>
-            <div class="image"><img src="images/Logo-Corif-grand.jpg" alt="CORIF"></div>
+            <div class="title2"><a href="https://www.corif.fr/" title="Lien vers le site web CORIF">CORIF</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web CORIF">
+                <img src="images/Logo-Corif-grand.jpg" alt="CORIF">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">NORSYS</div>
-            <div class="image"><img src="images/logo_fondation_norsys.png" alt="NORSYS"></div>
+            <div class="title1"><a href="https://www.norsys.fr/" title="Lien vers le site web NORSYS">NORSYS</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web NORSYS">
+                <img src="images/logo_fondation_norsys.png" alt="NORSYS">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">EPITECH</div>
-            <div class="image"><img src="images/logo_epitech.png" alt="EPITECH"></div>
+            <div class="title2"><a href="https://www.epitech.eu/" title="Lien vers le site web EPITECH">EPITECH</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web EPITECH">
+                <img src="images/logo_epitech.png" alt="EPITECH">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">FEMMES INGENIEURS</div>
-            <div class="image"><img src="images/logo_fi.jpg" alt="FEMMES INGENIEURS"></div>
+            <div class="title1"><a href="https://www.femmes-ingenieurs.org/" title="Lien vers le site web FEMMES INGENIEURS">FEMMES INGENIEURS</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web FEMMES INGENIEURS">
+                <img src="images/logo_fi.jpg" alt="FEMMES INGENIEURS">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">DPT DU NORD</div>
-            <div class="image"><img src="images/logo_nord.png" alt="DPT DU NORD"></div>
+            <div class="title2"><a href="https://lenord.fr/jcms/j_6/accueil" title="Lien vers le site web DPT DU NORD">DPT DU NORD</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web DPT DU NORD">
+                <img src="images/logo_nord.png" alt="DPT DU NORD">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">RTE NORD</div>
-            <div class="image"><img src="images/logo_rte.png" alt="RTE NORD"></div>
+            <div class="title1"><a href="https://www.rte-france.com/" title="Lien vers le site web RTE NORD">RTE NORD</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web RTE NORD">
+                <img src="images/logo_rte.png" alt="RTE NORD">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">ATERLIER CANOPE 62</div>
-            <div class="image"><img src="images/logo_ReseauCanope.jpg" alt="ATERLIER CANOPE 62"></div>
+            <div class="title2"><a href="https://www.reseau-canope.fr/academie-de-lille/atelier-canope-62-arras" title="Lien vers le site web ATERLIER CANOPE 62">ATERLIER CANOPE 62</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web ATERLIER CANOPE 62">
+                <img src="images/logo_ReseauCanope.jpg" alt="ATERLIER CANOPE 62">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1">INRIA</div>
-            <div class="image"><img src="images/logo_inria.png" alt="INRIA"></div>
+            <div class="title1"><a href="https://inria.fr/fr" title="Lien vers le site web INRIA">INRIA</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web INRIA">
+                <img src="images/logo_inria.png" alt="INRIA">
+              </a>
+            </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title2">KILOUTOU</div>
-            <div class="image"><img src="images/logo_kiloutou.png" alt="KILOUTOU"></div>
+            <div class="title2"><a href="https://www.kiloutou.fr/" title="Lien vers le site web KILOUTOU">KILOUTOU</a></div>
+            <div class="image">
+              <a href="" title="Lien vers le site web KILOUTOU">
+                <img src="images/logo_kiloutou.png" alt="KILOUTOU">
+              </a>
+            </div>
           </div>
         </div>
       </div>
