@@ -9,8 +9,8 @@
 </head>
 <body>
     <?php include 'header.html'?>
-    <section class="mainContent">
         <div class="toppage"></div>
+    <section class="mainContent">
         <div class="titleDecoration">
             <div class="title">
                 <div class="bar"></div>
