@@ -12,7 +12,6 @@
     <?php
       require_once('header.html');
     ?>
-    <!-- include a jumbotron (general classes) -->
     <div class="event">
       <h2>Maubeuge</h2>
       <p>17 novembre</p>
@@ -134,7 +133,7 @@
           <div class="bar"></div>
           <div>
             <p>Accéder au salon virtuel<br>
-            <a href="https://cvirtuelle.phm.education.gouv.fr/numeriquellesmaubeuge">https://cvirtuelle.phm.education.gouv.fr/numeriquellesboulogne</a>
+            <a href="https://cvirtuelle.phm.education.gouv.fr/numeriquellesmaubeuge">https://cvirtuelle.phm.education.gouv.fr/numeriquellesmaubeuge</a>
             </p>
           </div>
       </div>
@@ -160,7 +159,6 @@
     </p>
     <p>Et le retourner à l'<a href="​mdilmi@corif.fr​" title="mail Maleka">adresse mail de Maleka</a> : ​ <a href="​mdilmi@corif.fr​" title="mail Maleka">mdilmi@corif.fr​</a></p>
 
-    <!-- include an img with the green line (general classes) SATISFACTION FORM-->
 
     <?php
       require_once('footer.html');

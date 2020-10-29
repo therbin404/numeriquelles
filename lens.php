@@ -5,7 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" href="style.css">
       <link rel="stylesheet" href="styleevent.css">
-      <title>Numériqu'elles - Boulogne</title>
+      <title>Numériqu'elles - Lens</title>
   </head>
   <body>
 
@@ -13,8 +13,8 @@
       require_once('header.html');
     ?>
     <div class="event">
-      <h2>Boulogne</h2>
-      <p>24 novembre</p>
+      <h2>Lens</h2>
+      <p>11 Décembre</p>
     </div>
       <div class="titleDecoration roadMap">
         <div class="title">
@@ -37,20 +37,20 @@
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1"><a href="https://www.axa.fr/" title="Lien vers le site web AXA FRANCE">AXA FRANCE</a></div>
+            <div class="title1"><a href="https://www.norsys.fr/" title="Lien vers le site web NORSYS">NORSYS</a></div>
             <div class="image">
-              <a href="https://www.axa.fr/" title="Lien vers le site web AXA FRANCE">
-                <img src="images/AXA_Logo.svg" alt="AXA FRANCE">
+              <a href="" title="Lien vers le site web NORSYS">
+                <img src="images/logo_fondation_norsys.png" alt="NORSYS">
               </a>
             </div>
           </div>
         </div>
         <div class="workshop">
           <div class="head">
-            <div class="title1"><a href="https://www.orientoi.fr/" title="Lien vers le site web ORIENTOI">ORIENTOI</a></div>
+            <div class="title2"><a href="https://www.epitech.eu/" title="Lien vers le site web EPITECH">EPITECH</a></div>
             <div class="image">
-              <a href="https://www.orientoi.fr/" title="Lien vers le site web ORIENTOI">
-                <img src="images/logo_orientoi.png" alt="ORIENTOI">
+              <a href="" title="Lien vers le site web EPITECH">
+                <img src="images/logo_epitech.png" alt="EPITECH">
               </a>
             </div>
           </div>
@@ -83,7 +83,7 @@
           <div class="bar"></div>
           <div>
             <p>Accéder au salon virtuel<br>
-            <a href="https://cvirtuelle.phm.education.gouv.fr/numeriquellesboulogne">https://cvirtuelle.phm.education.gouv.fr/numeriquellesboulogne</a>
+            <a href="https://cvirtuelle.phm.education.gouv.fr/numeriquellesLens">https://cvirtuelle.phm.education.gouv.fr/numeriquellesLens</a>
             </p>
           </div>
       </div>
