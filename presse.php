@@ -18,7 +18,7 @@
         </div>
     </div>
     <div class="presentation">
-        <p>Dans les Hauts-de-France, 3 000 emplois numériques sont non
+        <p class="text">Dans les Hauts-de-France, 3 000 emplois numériques sont non
              pourvus chaque année. Au delà de cet enjeu économique, la parité
               dans les métiers du numérique et de l'informatique est un enjeu
                sociétal : en effet, comment imaginer que le monde digital de
@@ -40,7 +40,7 @@
     </div>
     <div class="savoir_faire">
         <h2>Notre savoir Faire</h2>
-        <p>La première édition de Numériqu’Elles est organisée à Lille,
+        <p class="text">La première édition de Numériqu’Elles est organisée à Lille,
              et reprise les années suivantes en associant de nouveaux
               partenaires tout en perfectionnant l’organisation grâce notamment
                au questionnaire de satisfaction complété par les élèves. Chaque
