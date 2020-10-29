@@ -2,6 +2,9 @@
 h2{
     font-size: 1.4rem;
 }
+.titleDecoration {
+    background-image: url('images/orientoi_stand.jpg');
+}
 .toppage{
     height: 512px; 
     background-image: url('images/femmeonstand.jpg');
