@@ -1,8 +1,6 @@
-p{
-font-size: 1.4rem;
-width: 50%;
-text-align: center;
-margin-left: 27%;
+
+h2{
+    font-size: 1.4rem;
 }
 .toppage{
     height: 512px; 
@@ -20,13 +18,6 @@ width: 33%;
 margin: 5%;
 border:2px solid black;
 }
-.firstline{
-    color: #62D3A4;
-    width: 80%;
-    height: 4px;
-    background-color: #62D3A4;
-    position: relative;
-    bottom: 386px;
 }
 .imgalign h2{
 text-align: center;
@@ -35,22 +26,53 @@ font-size: x-large;
 .onisep{
 margin-left: 35%;
 }
-.interblock{
-height: 324px;
-background-image: url('images/interblocmod.jpeg');
-background-size: content;
-opacity: 0.3;
-margin-top: 5%;
-}
-.secondline{
-    color: #67328D;
-    width: 80%;
-    height: 4px;
-    background-color: #67328D;
-    position: relative;
-    bottom: 331px;
-}
 .img_onisep{
     margin-top: 5%;
     margin-left: 25%;
+}
+.barreviolette{
+    background-color: #67328D;
+}
+.text{
+    margin-left: 100px;
+    width: 80%;
+    font-size: 1.6rem;
+}
+@media screen and (max-width:1000px){
+    .text{
+      margin-left: 75px;
+      margin-top: 3%;
+      margin-bottom: 3%;
+      width: 60%;
+    }
+    .imgalign{
+        width: 500px;
+        margin-left: 5%;
+    }
+    .onisep{
+        margin-left: 20%;
+    }
+.img_onisep{
+        margin-top: 3%;
+        margin-left: 10%;
+        width: 400px;
+}
+@media screen and (max-width:767px){
+.text{
+        margin-left: 50px;
+        width: 70%;
+}
+.imgalign{
+        width: 350px;
+}
+.onisep{
+    margin-left: 10%;
+}
+.img_onisep{
+    margin-left: 5%;
+    width: 300px;
+}
+} 
+    
+}
 }

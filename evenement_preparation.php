@@ -3,18 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"type="text/css" href="style.css">
     <link rel="stylesheet"type="text/css" href="style_evenement_preparation.css">
-    <title>contacter l'accompagnement au stages</title>
+    <title>Préparer Numériqu'elles</title>
 </head>
 <body>
    <?php include 'header.php' ?> 
-   <div class="toppage"></div>
-    <div class="title">
-        <img src="images/AnoukDesury-Numeriquelles2019-10 (1).jpg" alt="">
-        <h1>PREPARER L’EVENEMENT</h1>
-        <hr class="firstline">
+   <div class="titleDecoration">
+        <div class="title">
+            <div class="bar"></div>
+            <div>
+              <h1>PREPARER NUMERIQU'ELLES</h1>
+            </div>
+        </div>
     </div>
-    <p>Pourquoi les femmes renoncent-elles aux métiers du numérique et de 
+    <p class="text">Pourquoi les femmes renoncent-elles aux métiers du numérique et de 
         l’informatique ? Les filles sont-elles des « handicapées du numérique
          et de l’informatique » ? Il est vrai que les femmes sont aujourd’hui
           sous-représentées dans les filières du numérique et de l’informatique
@@ -34,13 +37,14 @@
         <h2>Découvrez les métiers avant les professionnels</h2>
     </div>
     <img src="images/onisep.png" alt="logos de l'onisep"class="onisep">
-    <p>L’onisep Hauts de France site d’Amiens vous propose 8 séquences pédagogiques utiles pour préparer et exploiter les manifestations Numériqu’elles.
+    <p class="text">L’onisep Hauts de France site d’Amiens vous propose 8 séquences pédagogiques utiles pour préparer et exploiter les manifestations Numériqu’elles.
         Destinées aux élèves de collège et/ou de lycée, ces séquences vont leur permettre d’identifier les stéréotypes liés aux métiers du numérique, de mettre en lumière des parcours de femmes dans ce secteur et d’amorcer une réflexion sur la construction de leur parcours d’orientation.
         Ces séquences clés-en-main sont indépendantes les unes des autres et s’inscrivent dans le cadre du parcours Avenir.</p>
-    <div class="interpaged">
-    <div class="interblock"></div>
-        <hr class="secondline">
-    </div> 
+        <div class="titleDecoration">
+        <div class="title">
+            <div class="bar barreviolette"></div>
+        </div>
+    </div>
     <img src="images/imageonisep.jpg" alt="image montrant un 
     homme avec des connéction entre ses main écarté dans le style matrix"class="img_onisep">
     <?php include 'footer.php' ?>   
