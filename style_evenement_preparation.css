@@ -1,0 +1,78 @@
+
+h2{
+    font-size: 1.4rem;
+}
+.toppage{
+    height: 512px; 
+    background-image: url('images/femmeonstand.jpg');
+    margin-bottom: 0;
+    padding-top: 0;
+}
+.imgalign{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.imgalign img {
+width: 33%;
+margin: 5%;
+border:2px solid black;
+}
+}
+.imgalign h2{
+text-align: center;
+font-size: x-large;
+}
+.onisep{
+margin-left: 35%;
+}
+.img_onisep{
+    margin-top: 5%;
+    margin-left: 25%;
+}
+.barreviolette{
+    background-color: #67328D;
+}
+.text{
+    margin-left: 100px;
+    width: 80%;
+    font-size: 1.6rem;
+}
+@media screen and (max-width:1000px){
+    .text{
+      margin-left: 75px;
+      margin-top: 3%;
+      margin-bottom: 3%;
+      width: 60%;
+    }
+    .imgalign{
+        width: 500px;
+        margin-left: 5%;
+    }
+    .onisep{
+        margin-left: 20%;
+    }
+.img_onisep{
+        margin-top: 3%;
+        margin-left: 10%;
+        width: 400px;
+}
+@media screen and (max-width:767px){
+.text{
+        margin-left: 50px;
+        width: 70%;
+}
+.imgalign{
+        width: 350px;
+}
+.onisep{
+    margin-left: 10%;
+}
+.img_onisep{
+    margin-left: 5%;
+    width: 300px;
+}
+} 
+    
+}
+}
