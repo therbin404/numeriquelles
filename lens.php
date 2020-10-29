@@ -12,6 +12,8 @@
     <?php
       require_once('header.html');
     ?>
+    <div class="first_image lensHeader">
+    </div>
     <div class="event">
       <h2>Lens</h2>
       <p>11 Décembre</p>

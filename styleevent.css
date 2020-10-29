@@ -117,3 +117,19 @@ p {
 .eventHeader {
   background-image: url('images/corif_stand.jpeg');
 }
+
+.boulogneHeader {
+  background-image: url('images/ibm_stand.jpg');
+}
+
+.lensHeader {
+  background-image: url('images/lensDiapo.jpg');
+}
+
+.lilleHeader {
+  background-image: url('images/lille_crew.jpg');
+}
+
+.maubeugeHeader {
+  background-image: url('images/girls.jpeg');
+}

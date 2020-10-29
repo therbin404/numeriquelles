@@ -12,6 +12,8 @@
     <?php
       require_once('header.html');
     ?>
+    <div class="first_image maubeugeHeader">
+    </div>
     <div class="event">
       <h2>Maubeuge</h2>
       <p>17 novembre</p>

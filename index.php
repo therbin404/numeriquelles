@@ -12,6 +12,8 @@
     <?php
       require_once('header.html');
     ?>
+    <div class="first_image">
+    </div>
     <section class="mainContent">
       <section class="observation">
         <div class="titleDecoration observationHeader">

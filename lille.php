@@ -12,6 +12,8 @@
     <?php
       require_once('header.html');
     ?>
+    <div class="first_image lilleHeader">
+    </div>
     <div class="event">
       <h2>Lille</h2>
       <p>6 novembre</p>
