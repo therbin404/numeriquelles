@@ -9,9 +9,12 @@ p{
 h1{
     text-align: center;
 }
+<<<<<<< HEAD
 h2{
     text-align: center;
 }
+=======
+>>>>>>> a999089577df30c7cec679782cce75bb50f29f12
 .toppage{
     background-image: url('images/foulle.jpg');
     background-size: cover;
@@ -21,14 +24,22 @@ h2{
     background-color: #DAE9F6;
     display: flex;
     justify-content: space-around;
+<<<<<<< HEAD
     flex-wrap: wrap;
     height: 400px;
+=======
+>>>>>>> a999089577df30c7cec679782cce75bb50f29f12
 }
 .blueback img {
     width: 200px;
     height: 300px;
+<<<<<<< HEAD
     margin-top: 50px;
     margin-bottom: 50px;
+=======
+    margin-top: 20%;
+    margin-bottom: 20%;
+>>>>>>> a999089577df30c7cec679782cce75bb50f29f12
 }
 .archivepresse img {
     width: 20%;
@@ -38,6 +49,7 @@ h2{
 .archivepresse h2 {
 text-align: center;
 }
+<<<<<<< HEAD
 .text{
     font-size: 1.4rem;
     margin-left: 10%;
@@ -54,4 +66,11 @@ text-align: center;
 @media screen and (max-width:370px){
     .archivepresse img {width:80px;
                     height: 100px;}
+=======
+.savoir_faire{
+    text-align: center;
+}
+.text{
+    font-size: 1.4rem;
+>>>>>>> a999089577df30c7cec679782cce75bb50f29f12
 }

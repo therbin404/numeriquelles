@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style_presse.css">
+<<<<<<< HEAD
     <link rel="stylesheet" href="style.css">
+=======
+>>>>>>> a999089577df30c7cec679782cce75bb50f29f12
     <title>Presse</title>
 </head>
 <body>
