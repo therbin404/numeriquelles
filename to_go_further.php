@@ -5,15 +5,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pour aller plus loin</title>
+    <link href="style.css" rel="stylesheet">
     <link href="go_further.css" rel="stylesheet">
-</head>
-
 <body>
-    <div class="first_image"></div>
-    <div class="background_img_h1">
-        <div class="title_h1">
+    <?php include("header.html") ?> 
+    <div class="first_image">
+    </div>
+
+    <div class="titleDecoration">
+        <div class="title">
             <div class="bar"></div>
-            <h1>Les ambassadrices du numérique</h1>
+            <div>
+              <h1>Les ambassadrices du numérique</h1>
+            </div>
         </div>
     </div>
     <section class="go_further_section1">
@@ -61,7 +65,7 @@
         <div id="button_form_pdf"><a href="ambassadrices_du_numerique.pdf">Formulaire d'inscription</a></div>
         <div id="button_mcq_pdf"><a href="questionnaire.pdf">Questionnaire</a></div>
     </div>
-    <div id="background_img_h3">
+    <div id="background_our_ambitions">
         <div id="our_ambition">
             <h3>Notre ambition</h3>
             <p>Sensibiliser davantage de jeunes filles en démultipliant
@@ -69,6 +73,7 @@
                 et contribuer à l’essaimage dans d’autres régions.</p>
         </div>
     </div>
+    <?php include("footer.html")?>
 </body>
 
 </html>

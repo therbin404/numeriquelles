@@ -30,26 +30,6 @@ nav {
     align-items: center;
 }
 
-footer {
-  background-color: rgba(218,233,246,1);
-  padding: 10px 10%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-footer ul {
-  text-align: right;
-}
-
-footer ul li {
-  padding: 3px 0;
-}
-
-footer .logos div {
-  padding: 5px 0;
-}
-
 .government,
 .logo,
 .menu {
@@ -95,46 +75,9 @@ footer .logos div {
     padding: 9px 34px;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1000px) {
-  footer {
-    display: block;
-  }
-
-  .logos {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-    align-items: center;
-    padding-bottom: 10px;
-  }
-
-  footer ul {
-    display: flex;
-    justify-content: space-around;
-  }
-}
-
 @media screen and (min-width: 1000px) {
     nav {
         height: 100px;
-    }
-
-    footer {
-      display: block;
-      font-size: 1.4rem;
-    }
-  
-    .logos {
-      display: flex;
-      flex-direction: row-reverse;
-      justify-content: space-between;
-      align-items: center;
-      padding-bottom: 20px;
-    }
-  
-    footer ul {
-      display: flex;
-      justify-content: space-around;
     }
 
     .logo img {

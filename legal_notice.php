@@ -5,17 +5,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mentions légales</title>
-    <link href="mentions_legales.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <link href="legal_notice.css" rel="stylesheet">
 </head>
 
 <body>
-    <div class="first_image">
-        <img src="AnoukDesury-Numeriquelles2019-130.jpg" alt="first image">
-    </div>
-    <div class="background_img_h1">
-        <div class="title_h1">
-            <div class="blue_bar"></div>
-            <h1>Mentions légales</h1>
+    <?php include("header.html") ?>
+    <div class="first_image"></div>
+    <div class="titleDecoration">
+        <div class="title">
+            <div class="bar"></div>
+            <div>
+                <h1>Mentions légales</h1>
+            </div>
         </div>
         <section id="legal_notice">
             <h2>Mentions légales</h2>
@@ -57,8 +59,9 @@
 
             Il vous est loisible d’introduire une réclamation auprès de la commission nationale informatique et libertés
             à l’aide du lien suivant :</p>
-            <a href="https://eduline.ac-lille.fr/rgpd/cnil-plaintes">https://eduline.ac-lille.fr/rgpd/cnil-plaintes</a></p>
-
+            <a href="https://eduline.ac-lille.fr/rgpd/cnil-plaintes">https://eduline.ac-lille.fr/rgpd/cnil-plaintes</a>
+            </p>
+            <?php include("footer.html") ?> 
     </div>
     </section>
 </body>
