@@ -14,7 +14,7 @@
     ?>
     <section class="mainContent">
       <section class="observation">
-        <div class="titleDecoration roadMap">
+        <div class="titleDecoration observationHeader">
           <div class="title">
             <div class="bar"></div>
             <div>
@@ -51,7 +51,7 @@
         </div>
       </section>
       <section class="objectives">
-        <div class="titleDecoration roadMap">
+        <div class="titleDecoration objectivesHeader">
           <div class="title">
             <div class="bar"></div>
             <div>

@@ -171,6 +171,14 @@ footer .logos div {
   margin-bottom: 50px;
 }
 
+.observationHeader {
+  background-image: url('images/axa_stand.jpeg');
+}
+
+.objectivesHeader {
+  background-image: url('images/all_stands.jpeg');
+}
+
 @media screen and (min-width: 768px) and (max-width: 1000px) {
   footer {
     display: block;
