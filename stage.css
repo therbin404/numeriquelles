@@ -1,0 +1,28 @@
+.first_image {
+    background-image: url('images/robot.jpg');
+}
+
+.mailSection {
+    background-color: rgba(218,233,246,1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.mailSection p {
+    margin: 25px 0;
+}
+
+.mailSection p:first-child {
+    font-size: 2.4rem;
+}
+
+.mainContent > p {
+    padding: 50px;
+}
+
+.mailSection p:last-child{
+    display: flex;
+    justify-content: center;
+}
