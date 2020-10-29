@@ -10,7 +10,6 @@
     width: 100%;
     background: rgba(255, 255, 255, 0.7);
     height: 102px;
-
 }
 .titleDecoration .bar{
     width: 90%;
@@ -84,7 +83,7 @@
     text-align: center;
     border-radius: 20px;
 }
-#background_img_h3{
+#background_our_ambitions{
     background-image: url(images/AnoukDesury-Numeriquelles2019-12.jpg);
     background-size: cover;
     background-position: center;
@@ -103,7 +102,7 @@
     padding-bottom: 15px;
 }
 #our_ambition p{
-    width: 100%;
+    width: 80%;
     margin: auto;
 }
 @media screen and (min-width: 600px){
@@ -117,14 +116,20 @@
         font-size: 1.8;
     }
 }
-@media screen and (min-width: 774px){
+
+@media screen and (min-width: 768px){
     .list_center{
         width: 72%;
     }
+    #our_ambition p{
+        width: 70%;
+    }
 }
 @media screen and (min-width: 1000px){
-    
     .list_center{
         width: 55%;
+    }
+    #our_ambition p{
+        width: 45%;
     }
 }
