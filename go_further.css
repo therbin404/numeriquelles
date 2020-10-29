@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+p {
+    padding: 20px;
+}
 .titleDecoration{
   font-size: 1.4rem;
 }
