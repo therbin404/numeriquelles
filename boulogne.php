@@ -16,7 +16,7 @@
       <h2>Boulogne</h2>
       <p>24 novembre</p>
     </div>
-      <div class="titleDecoration roadMap">
+      <div class="titleDecoration eventHeader">
         <div class="title">
             <div class="bar"></div>
             <div>
@@ -97,11 +97,11 @@
         Merci de vérifier que l’accès à Teams est possible sur le réseau de
         votre établissement.
     </p>
-    <div class="titleDecoration virtualRoom">
+    <div class="titleDecoration eventHeader">
       <div class="title">
           <div class="bar"></div>
           <div>
-            <p>N’oubliez pas de faire remplir le questionnaire desatisfaction par vos élèves.</p>
+            <p>N’oubliez pas de faire remplir le questionnaire de satisfaction par vos élèves.</p>
           </div>
       </div>
     </div>

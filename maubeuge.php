@@ -16,7 +16,7 @@
       <h2>Maubeuge</h2>
       <p>17 novembre</p>
     </div>
-      <div class="titleDecoration roadMap">
+      <div class="titleDecoration eventHeader">
         <div class="title">
             <div class="bar"></div>
             <div>
@@ -147,7 +147,7 @@
         Merci de vérifier que l’accès à Teams est possible sur le réseau de
         votre établissement.
     </p>
-    <div class="titleDecoration virtualRoom">
+    <div class="titleDecoration eventHeader">
       <div class="title">
           <div class="bar"></div>
           <div>

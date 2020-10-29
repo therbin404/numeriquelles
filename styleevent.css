@@ -38,11 +38,11 @@ p {
 }
 
 .virtualRoom{
-  background-image: url(images/mainheader.jpg);
+  background-image: url('images/girls.jpeg');
 }
 
 .roadMap{
-  background-image: url(images/mainheader.jpg);
+  background-image: url('images/all_stands.jpeg');
 }
 
 .middleSchool {
@@ -112,4 +112,8 @@ p {
   font-size: 6rem;
   display: inline-block; 
   line-height: 0rem;
+}
+
+.eventHeader {
+  background-image: url('images/corif_stand.jpeg');
 }
