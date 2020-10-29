@@ -1,3 +1,16 @@
+p {
+  margin: 20px
+}
+
+.program ul {
+  font-size: 1.4rem;
+  margin: 20px
+}
+
+.program li {
+  margin: 5px 0;
+}
+
 .event {
   text-align: center;
 }
