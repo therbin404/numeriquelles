@@ -75,19 +75,18 @@ p {
     align-content: center;
     justify-content: space-around;
     margin-bottom: 50px;
-    font-size: 1.2rem;
 
 }
 #button_form_pdf{
-    width: 20%;
+    width: 120px;
     background-color: rgba(6, 214, 160, 0.5);
-    padding: 16px;
+    padding: 5px;
     text-align: center;
     border-radius: 20px;
 }
 #button_mcq_pdf{
     background-color: rgba(112, 46, 146, 0.5);
-    padding: 24px 15px 20px 15px;
+    padding: 15px;
     text-align: center;
     border-radius: 20px;
 }
@@ -120,9 +119,6 @@ p {
     .list_center{
         width: 90%;
     }
-    #button_mcq_pdf{
-        width: 20%;
-    }
     .titleDecoration{
         font-size: 1.8;
     }
@@ -142,13 +138,5 @@ p {
     }
     #our_ambition p{
         width: 45%;
-    }
-    .buttons{
-        font-size: 1.8rem;
-        align-items: flex-end;
-    }
-
-    #button_mcq_pdf{
-        padding: 27px 18px 27px 18px;
     }
 }
