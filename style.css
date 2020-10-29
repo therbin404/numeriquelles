@@ -1,8 +1,20 @@
+@font-face {
+  font-family: HelveticaNeue;
+  src: url("fonts/HelveticaNeue.ttf") format("opentype");
+}
+@font-face {
+  font-family: HelveticaNeue;
+  font-weight: bold;
+  src: url("fonts/HelveticaNeueBold.ttf") format("opentype");
+}
+
 html,
 body {
     margin: 0;
     padding: 0;
     font-size: 10px;
+    font-family: HelveticaNeue;
+    letter-spacing: 1px;
 }
 
 ul,
@@ -185,6 +197,10 @@ footer .logos div {
   background-size: cover;
   background-position: 50% 63%;
   background-repeat: no-repeat;
+}
+
+.title p {
+  font-weight: bold;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1000px) {
