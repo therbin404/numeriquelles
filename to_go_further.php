@@ -5,18 +5,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pour aller plus loin</title>
+    <link href="style.css" rel="stylesheet">
     <link href="go_further.css" rel="stylesheet">
 </head>
 
 <body>
+    <?php include("header.html")?>
     <div class="first_image">
     </div>
-
+    <div class="mainContent">
     <div class="titleDecoration">
         <div class="title">
             <div class="bar"></div>
             <div>
-              <h1>Les ambassadrices du numérique</h1>
+                <h1>Les ambassadrices du numérique</h1>
             </div>
         </div>
     </div>
@@ -41,7 +43,7 @@
         </div>
     </section>
     <div id="img_realisation">
-        <img src="images/AnoukDesury-Numeriquelles2019-27.jpg" alt="filles devant pc">
+        <img src="images/AnoukDesury-Numeriquelles2019-32.jpg" alt="filles devant pc">
     </div>
     <section class="go_further_section1">
         <p>Les productions seront à déposer pour le 17 janvier 2020 dans le groupe Numériqu’elles créé sur l’ENT.
@@ -64,8 +66,8 @@
         </ul>
     </section>
     <div class="buttons">
-        <div id="button_form_pdf"><a href="ambassadrices_du_numerique.pdf">Formulaire d'inscription</a></div>
-        <div id="button_mcq_pdf"><a href="questionnaire.pdf">Questionnaire</a></div>
+        <div id="button_form_pdf"><a href="ressources/ambassadrices_du_numerique.pdf">Formulaire d'inscription</a></div>
+        <div id="button_mcq_pdf"><a href="ressources/questionnaire.pdf">Questionnaire</a></div>
     </div>
     <div id="background_img_h3">
         <div id="our_ambition">
@@ -75,6 +77,8 @@
                 et contribuer à l’essaimage dans d’autres régions.</p>
         </div>
     </div>
+</div>
+    <?php include("footer.html")?>
 </body>
 
 </html>
