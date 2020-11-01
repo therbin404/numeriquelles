@@ -32,23 +32,23 @@
       </section>
       <section class="numbers">
         <div>
-          <div class="number firstColor">
-            <p>20</p>
-            <p>Entreprises</p>
+          <div class="number">
+            <p><span class="firstColor">20</span>
+              <br>Entreprises</p>
           </div>
-          <div class="number secondColor">
-            <p>10</p>
-            <p>Organismes de formation</p>
+          <div class="number">
+            <p><span class="secondColor">10</span>
+              <br>Organismes de formation</p>
           </div>
         </div>
         <div>
-          <div class="number firstColor">
-            <p>2173</p>
-            <p>Filles déjà sensibilisées depuis 2015</p>
+          <div class="number">
+            <p><span class="firstColor">2173</span>
+              <br>Filles déjà sensibilisées depuis 2015</p>
           </div>
-          <div class="number secondColor">
-            <p>984</p>
-            <p>Filles inscrites en 2020</p>
+          <div class="number">
+            <p><span class="secondColor">984</span>
+              <br>Filles inscrites en 2020</p>
           </div>
         </div>
       </section>
