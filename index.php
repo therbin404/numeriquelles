@@ -16,13 +16,12 @@
     </div>
     <section class="mainContent">
       <section class="observation">
-        <div class="titleDecoration observationHeader">
-          <div class="title">
-            <div class="bar"></div>
-            <div>
-              <h2>CONSTAT</h2>
-            </div>
+        <div class="title">
+          <div class="pre"></div>
+          <div>
+            <h2>Constat</h2>
           </div>
+          <div class="bar"></div>
         </div>
         <p>Dans les Hauts-de-France, 3000 emplois numériques sont non
           pourvus chaque année et les femmes représentent seulement
@@ -53,24 +52,22 @@
         </div>
       </section>
       <section class="objectives">
-        <div class="titleDecoration objectivesHeader">
-          <div class="title">
-            <div class="bar"></div>
-            <div>
-              <h2>OBJECTIFS</h2>
-            </div>
+        <div class="title">
+          <div class="pre"></div>
+          <div>
+            <h2>Objectifs</h2>
           </div>
+          <div class="bar"></div>
         </div>
         <p>Pour répondre à cet enjeu le Corif organise Numériqu’elles depuis 2015 sous la forme d’ateliers dédiés aux collegiennes et lycéennes, pour faire découvrir les formations et métiers du numérique.</p>
       </section>
       <section>
-        <div class="titleDecoration roadMap">
-          <div class="title">
-            <div class="bar"></div>
-            <div>
-              <h2>Nos partenaires</h2>
-            </div>
+        <div class="title">
+          <div class="pre"></div>
+          <div>
+            <h2>Nos partenaires</h2>
           </div>
+          <div class="bar"></div>
         </div>
         <div class="partners">
           <div class="partner">
