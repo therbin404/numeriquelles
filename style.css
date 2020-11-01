@@ -171,6 +171,7 @@ footer .logos div {
 }
 
 .partners {
+  margin: 45px 15px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;

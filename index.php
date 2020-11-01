@@ -74,43 +74,43 @@
         </div>
         <div class="partners">
           <div class="partner">
-            <a href="onisep.fr"><img src="images/onisep.svg" alt="Onisep"></a>
+            <img src="images/onisep.svg" alt="Onisep">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/ibminnovationcenter.jpg" alt=""></a>
+            <img src="images/ibminnovationcenter.jpg" alt="IBM">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/logo_UPJV.png" alt=""></a>
+            <img src="images/logo_UPJV.png" alt="Université de Picardie Jules Vernes">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/logo_euratech.png" alt=""></a>
+            <img src="images/logo_euratech.png" alt="Euratechnologies">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/llv.png" alt=""></a>
+            <img src="images/llv.png" alt="Louvres Lens Vallée">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/logo_uimm.png" alt=""></a>
+            <img src="images/logo_uimm.png" alt="UIMM Proméo">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/gov.png" alt=""></a>
+            <img src="images/gov.png" alt="Gouvernement">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/lenumeriquerecrute.png" alt=""></a>
+            <img src="images/lenumeriquerecrute.png" alt="Le numérique recrute">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/logo_nord.png" alt=""></a>
+            <img src="images/logo_nord.png" alt="Département du Nord">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/logo_boulonnais.jpg" alt=""></a>
+            <img src="images/logo_boulonnais.jpg" alt="Communauté d'gglomération du Boulonnais">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/logo_lens_lievin.jpg" alt=""></a>
+            <img src="images/logo_lens_lievin.jpg" alt="Communauté d'agglomération Lens-liévin">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/Logo-CAMVS.png" alt=""></a>
+            <img src="images/Logo-CAMVS.png" alt="Maubeuge Créative Cities">
           </div>
           <div class="partner">
-            <a href="" title=""><img src="images/Logo_Soissons.svg" alt=""></a>
+            <img src="images/Logo_Soissons.svg" alt="Soissons">
           </div>
         </div>
       </section>
