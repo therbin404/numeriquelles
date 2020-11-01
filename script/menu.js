@@ -13,11 +13,3 @@ document.querySelector('#menuSecondLevel').addEventListener('click', function (e
         document.querySelector('#secondLevel').style.display = 'block';
     }
 })
-
-document.querySelector('#menuThirdLevel').addEventListener('click', function (e) { //Show third menu (events)
-    if (document.querySelector('#thirdLevel').style.display == 'block') {
-        document.querySelector('#thirdLevel').style.display = 'none';
-    } else {
-        document.querySelector('#thirdLevel').style.display = 'block';
-    }
-})

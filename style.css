@@ -97,10 +97,13 @@ footer .logos div {
 }
 
 .firstLevel,
-.secondLevel,
-.thirdLevel {
+.secondLevel {
     display: none;
     background-color: white;
+}
+
+.secondLevel {
+  text-align: left;
 }
 
 .firstLevel li {
@@ -295,8 +298,7 @@ footer .logos div {
       background-color: rgba(98, 211, 164, 1);
   }
 
-  .secondLevel li a,
-  .thirdLevel li a {
+  .secondLevel li a {
       padding: 10px 15px;
   }
 
@@ -310,22 +312,7 @@ footer .logos div {
       left: 0;
   }
 
-  #menuThirdLevel {
-      position: relative;
-  }
-
-  .thirdLevel {
-      width: 100%;
-      position: absolute;
-      top: 100px;
-      left: 0;
-  }
-
   #menuSecondLevel:hover .secondLevel {
-      display: block;
-  }
-
-  #menuThirdLevel:hover .thirdLevel {
       display: block;
   }
 
