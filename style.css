@@ -170,9 +170,23 @@ footer .logos div {
   color: rgba(103,50,141, 1);
 }
 
-.partners img {
-  width: 100%;
-  margin: 20px 0;
+.partners {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.partner {
+  width: 150px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.partner img {
+  max-width: 100%;
+  max-height: 100px;
 }
 
 .numbers,

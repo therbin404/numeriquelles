@@ -63,7 +63,7 @@
         </div>
         <p>Pour répondre à cet enjeu le Corif organise Numériqu’elles depuis 2015 sous la forme d’ateliers dédiés aux collegiennes et lycéennes, pour faire découvrir les formations et métiers du numérique.</p>
       </section>
-      <section class="partners">
+      <section>
         <div class="titleDecoration roadMap">
           <div class="title">
             <div class="bar"></div>
@@ -72,7 +72,47 @@
             </div>
           </div>
         </div>
-        <img src="images/partners.svg" alt="Partenaires">
+        <div class="partners">
+          <div class="partner">
+            <a href="onisep.fr"><img src="images/onisep.svg" alt="Onisep"></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/ibminnovationcenter.jpg" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/logo_UPJV.png" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/logo_euratech.png" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/llv.png" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/logo_uimm.png" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/gov.png" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/lenumeriquerecrute.png" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/logo_nord.png" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/logo_boulonnais.jpg" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/logo_lens_lievin.jpg" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/Logo-CAMVS.png" alt=""></a>
+          </div>
+          <div class="partner">
+            <a href="" title=""><img src="images/Logo_Soissons.svg" alt=""></a>
+          </div>
+        </div>
       </section>
     </section>
     <?php
