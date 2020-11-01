@@ -11,13 +11,12 @@
     <?php include 'header.html'?>
         <div class="toppage"></div>
     <section class="mainContent">
-        <div class="titleDecoration">
-            <div class="title">
-                <div class="bar"></div>
-                <div>
-                <h1>PRESSE</h1>
-                </div>
-            </div>
+        <div class="title">
+          <div class="pre"></div>
+          <div>
+            <h2>Presse</h2>
+          </div>
+          <div class="bar"></div>
         </div>
         <div class="presentation">
             <p class="text">Dans les Hauts-de-France, 3 000 emplois numériques sont non

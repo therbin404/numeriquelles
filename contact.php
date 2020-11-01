@@ -10,14 +10,13 @@
 <body>
     <?php include 'header.php'?>
     <div class="toppage"></div>
-    <div class="titleDecoration">
         <div class="title">
-            <div class="bar"></div>
-            <div>
-              <h1>CONTACT</h1>
-            </div>
+          <div class="pre"></div>
+          <div>
+            <h2>Contact</h2>
+          </div>
+          <div class="bar"></div>
         </div>
-    </div>
     <p>Dans une volonté de découvrir de plus prêt les métiers du numérique vous 
         souhaitez ou êtes déjà en stage dans une entreprise du numérique mais
          vous avez besoin de conseils ou une réponse à vos question . Madame 

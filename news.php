@@ -15,13 +15,12 @@
     <div class="first_image">
     </div>
     <section class="mainContent">
-        <div class="titleDecoration">
-          <div class="title">
-            <div class="bar"></div>
-            <div>
-              <h2>Actualités</h2>
-            </div>
+        <div class="title">
+          <div class="pre"></div>
+          <div>
+            <h2>Actualités</h2>
           </div>
+          <div class="bar"></div>
         </div>
         <div class="news">
             <div class="newsContent">

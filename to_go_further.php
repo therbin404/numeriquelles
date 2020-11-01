@@ -14,14 +14,13 @@
     <div class="first_image">
     </div>
     <div class="mainContent">
-    <div class="titleDecoration observationHeader">
         <div class="title">
-            <div class="bar"></div>
-            <div>
-                <h1>Les ambassadrices du numérique</h1>
-            </div>
+          <div class="pre"></div>
+          <div>
+            <h2>Les ambassadrices du numérique</h2>
+          </div>
+          <div class="bar"></div>
         </div>
-    </div>
     <section class="go_further_section1">
         <p>Suite au forum Numériqu’elles du 8 novembre 2019,
             il est proposé aux élèves des établissements ayant participé de réaliser une ou plusieurs productions

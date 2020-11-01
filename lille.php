@@ -19,13 +19,12 @@
         <h2>Lille</h2>
         <p>6 novembre</p>
       </div>
-        <div class="titleDecoration eventHeader">
-          <div class="title">
-              <div class="bar"></div>
-              <div>
-                <p>Découvrez les partenaires de cette édition Numériqu’elles 2020.</p>
-              </div>
+        <div class="title">
+          <div class="pre"></div>
+          <div>
+            <h2>Etape 1. Découvrez les partenaires de cette édition 2020.</h2>
           </div>
+          <div class="bar"></div>
         </div>
         <div class="workshops">
           <div class="workshop">
@@ -239,13 +238,12 @@
             </div>
           </div>
         </div>
-        <div class="titleDecoration roadMap">
-          <div class="title">
-              <div class="bar"></div>
-              <div>
-                <p>Retrouvez le programme de votre établissement</p>
-              </div>
+        <div class="title">
+          <div class="pre"></div>
+          <div>
+            <h2>Etape 2. Retrouvez le programme de votre établissement.</h2>
           </div>
+          <div class="bar"></div>
         </div>
         <div class="program">
           <p>Merci de veiller à ce que toutes les contraintes techniques soient prises en compte avant le jour J afin que nous puissions tous profiter de ce forum dans les meilleures conditions.<br>
@@ -269,17 +267,15 @@
             <li><a href="ressources/high_school_rotation_lille.docx">Télécharger la feuille de route lycées</a></li>
           </ul>
         </div>
-      <div class="titleDecoration virtualRoom">
         <div class="title">
-            <div class="bar"></div>
-            <div>
-              <p>Accéder au salon virtuel<br>
-              <a href="https://cvirtuelle.phm.education.gouv.fr/numeriquelles">https://cvirtuelle.phm.education.gouv.fr/numeriquelles</a>
-              </p>
-            </div>
+          <div class="pre"></div>
+          <div>
+            <h2>Etape 3. Accédez au salon virtuel.</h2>
+          </div>
+          <div class="bar"></div>
         </div>
-      </div>
       <p>
+        <a href="https://cvirtuelle.phm.education.gouv.fr/numeriquelles">Cliquez ici pour accéder au salon virtuel.</a>
         Si vous rencontrez des difficultés à vous connecter au salon virtuel, consultez le <a href="https://drive.google.com/file/d/19W1WQsL8ZGJnUKR42gbeSfXmOqZ8fXsV/view?usp=sharing" title="PDF">PDF</a>
       </p>
       <p>Par mesure de sécurité, si la visioconférence VIA n’est pas fonctionnelle,
@@ -288,17 +284,16 @@
           Merci de vérifier que l’accès à Teams est possible sur le réseau de
           votre établissement.
       </p>
-      <div class="titleDecoration eventHeader">
         <div class="title">
-            <div class="bar"></div>
-            <div>
-              <p>N’oubliez pas de faire remplir le questionnaire desatisfaction par vos élèves.</p>
-            </div>
+          <div class="pre"></div>
+          <div>
+            <h2>Etape 4. N’oubliez pas de faire remplir le questionnaire de satisfaction par vos élèves.</h2>
+          </div>
+          <div class="bar"></div>
         </div>
-      </div>
       <p><a href="https://drive.google.com/file/d/1PFpiost2ZQtKJQVrMep0qgHCOM3Ju9aC/view?usp=sharing" title="Télécharger le PDF de satisfaction">Téléchargez le PDF de satisfaction</a>
       </p>
-      <p>Et le retourner à l'<a href="​mdilmi@corif.fr​" title="mail Maleka">adresse mail de Maleka</a> : ​ <a href="​mdilmi@corif.fr​" title="mail Maleka">mdilmi@corif.fr​</a></p>
+      <p>Et le retourner à l'adresse mail de Maleka : ​ <a href="​mdilmi@corif.fr​" title="mail Maleka">mdilmi@corif.fr​</a></p>
     </section>
 
 

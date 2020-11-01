@@ -14,13 +14,12 @@
     <div class="first_image">
     </div>
     <section class="mainContent">
-        <div class="titleDecoration observationHeader">
-            <div class="title">
-                <div class="bar"></div>
-                <div>
-                    <h1>Mentions légales</h1>
-                </div>
-            </div>
+        <div class="title">
+          <div class="pre"></div>
+          <div>
+            <h2>Mentions légales</h2>
+          </div>
+          <div class="bar"></div>
         </div>
         <section id="legal_notice">
             <h2>Mentions légales</h2>
