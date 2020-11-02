@@ -7,28 +7,21 @@ p{
     font-size: 1.4rem;
     text-align: center;
 }
-.toppage{
-    background-image: url('images/womenonstand_edit.jpg');
-    height: 510px;
-    background-size: cover;
-}
 .container{
     display: flex;
     justify-content: space-around;
     background-color: #DAE9F6;
-    height: 400px;
+    padding: 5%;
 }
 .containertwo{
     background-color: #DAE9F6;
+    display: flex;
+    justify-content: center;
 }
-.containertwo img{
-    margin-left: 35%;
+.bloctext{
+    line-height: 2rem;
+    margin:3%;
 }
-.img_line_one{
-    margin-top: 20%;
-    margin-bottom: 20%;
-}
-
 @media screen and (max-width:770px) {
     img{
         margin: 0;
@@ -36,18 +29,16 @@ p{
     p{
         font-size: 1.2rem;
     }
-    .toppage{
-        background-image: url('images/womenonstand_tab.jpg');
-        height: 327px;
-    }
     .container{
         flex-wrap: wrap;
         height: 800px;
-        padding-right: 10%;
+        margin-right: auto;
+        margin-left: auto;
 
     }
     .containertwo img{
-        margin-left: 7%;
+        margin-left: auto;
+        margin-right: auto;
     
     }
 }
@@ -56,10 +47,6 @@ p{
         height: 200px;
         width: 200px;
         margin: 2%;
-    }
-    .toppage{
-        background-image: url('images/womenonstand_tel.jpg');
-        height: 153px;
     }
     .container{
         flex-wrap: wrap;
