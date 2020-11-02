@@ -24,6 +24,7 @@ h2{
     background-color: #DAE9F6;
     display: flex;
     justify-content: space-around;
+    padding: 5%;
 <<<<<<< HEAD
     flex-wrap: wrap;
     height: 400px;
@@ -31,8 +32,8 @@ h2{
 >>>>>>> a999089577df30c7cec679782cce75bb50f29f12
 }
 .blueback img {
-    width: 200px;
-    height: 300px;
+    width: 230px;
+    height:414px;
 <<<<<<< HEAD
     margin-top: 50px;
     margin-bottom: 50px;
@@ -46,6 +47,9 @@ h2{
     margin-left: 40%;
     border: 1px solid black;
 }
+.bold{
+    font-weight: 700;
+}
 .archivepresse h2 {
 text-align: center;
 }
@@ -53,6 +57,7 @@ text-align: center;
 .text{
     font-size: 1.4rem;
     margin-left: 10%;
+    line-height: 2rem;
 }
 @media screen and (max-width:768px){
     .text{
