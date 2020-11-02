@@ -9,34 +9,32 @@
 </head>
 <body>
     <?php include 'header.php'?>
-    <div class="toppage"></div>
-    <div class="titleDecoration">
-        <div class="title">
-            <div class="bar"></div>
-            <div>
-              <h1>ACTUALITE</h1>
-            </div>
+    <div class="title">
+    <div class="pre"></div>
+        <div>
+            <h2>Actualité</h2>
         </div>
-    </div>
+    <div class="bar"></div>
+</div>
     <h2>Les dernière actualité de Numériqu'elles</h2>
     <div class="container">
         <a href="images/affiche_2020">
             <img src="images/Capture_affiche2020.png" 
             alt="premiére page de l'affiche de 2020"
-            class="img_line_one">
+            >
         </a>
         <a href="images/Numériquelles_bilan2019.pdf">
             <img src="images/capture_bilan.png" 
             alt="premiére page du bilan 2019"
-            class="img_line_one">
+            >
         </a>
     </div>
-    <div class="bloctext">
-    <p>Pour la premire fois depuis sa création Numériqu'elles
+    <div class="bloctext"><span class="bold"></span>
+    <p><span class="bold">Pour la premire fois</span> depuis sa création Numériqu'elles
          , en raison du problème sanitaire se vivra pour les
-        participante par vidéoconférence </p>
-    <p>afin de profiter au mieu de l'événement pensez à
-        consulté notre dossier sur les bons usage pour la 
+        participante <span class="bold">par vidéoconférence</span> </p>
+    <p>afin de <span class="bold">profiter au mieu</span> de l'événement pensez à
+        consulter notre dossier sur les bons usage pour la 
         videoconférence ci dessous.
     </p>
     </div>
