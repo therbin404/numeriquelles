@@ -73,13 +73,13 @@
           <div>
             <h3>Dates</h3>
             <ul>
-              <li>LILLE - 6/11</li>
-              <li>SOISSONS - 13/11</li>
-              <li>MAUBEUGE - 17/11</li>
-              <li>BEAUVAIS - 20/11</li>
-              <li>BOULOGNE-SUR-MER - 24/11</li>
-              <li>AMIENS - 4/12</li>
-              <li>LENS - 11/12</li>
+              <li>LILLE - <span class="firstColor">6/11</span></li>
+              <li>SOISSONS - <span class="secondColor">13/11</span></li>
+              <li>MAUBEUGE - <span class="firstColor">17/11</span></li>
+              <li>BEAUVAIS - <span class="secondColor">20/11</span></li>
+              <li>BOULOGNE-SUR-MER - <span class="firstColor">24/11</span></li>
+              <li>AMIENS - <span class="secondColor">4/12</span></li>
+              <li>LENS - <span class="firstColor">11/12</span></li>
             </ul>
           </div>
           <div>
