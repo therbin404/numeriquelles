@@ -180,6 +180,16 @@ footer .logos div {
   font-weight: bold;
 }
 
+.contentEdition {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.contentEdition > div {
+  width: 300px;
+}
+
 .firstColor {
   color: rgba(98, 211, 164, 1);
 }
