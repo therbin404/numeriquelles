@@ -14,18 +14,18 @@
     <div class="first_image">
     </div>
     <div class="mainContent">
-        <div class="title">
-          <div class="pre"></div>
-          <div>
-            <h2>Les ambassadrices du numérique</h2>
-          </div>
-          <div class="bar"></div>
+    <div class="title">
+            <div class="pre"></div>
+                <div>
+                    <h2>Les ambassadrices du numerique</h2>
+                </div>
+            <div class="bar"></div>
         </div>
     <section class="go_further_section1">
         <p>Suite au forum Numériqu’elles du 8 novembre 2019,
             il est proposé aux élèves des établissements ayant participé de réaliser une ou plusieurs productions
             utilisant le numérique pour promouvoir ce secteur auprès des collégiennes et des lycéennes notamment.</p>
-        <p>L’objectif est de déconstruire les stéréotypes
+        <p>L’objectif est de <strong>déconstruire les stéréotypes</strong>
             liés au secteur du numérique en présentant par exemple un métier, une association,
             un parcours personnel et/ou professionnel, une action menée dans l’établissement en lien avec le forum.</p>
         <div class="list_center">
@@ -47,7 +47,7 @@
     <section class="go_further_section1">
         <p>Les productions seront à déposer pour le 17 janvier 2020 dans le groupe Numériqu’elles créé sur l’ENT.
             Un jury se réunira courant février :
-            les réalisations les plus réussies seront récompensées et serviront à la promotion du forum l’année
+            les réalisations les plus réussies <strong>seront récompensées et serviront à la promotion du forum</strong> l’année
             prochaine.
         <p>
             Les établissements qui le souhaitent peuvent être accompagnés dans ce projet par la Délégation académique au
