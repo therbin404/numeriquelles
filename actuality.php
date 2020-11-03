@@ -8,7 +8,11 @@
     <title>Actualité</title>
 </head>
 <body>
+<<<<<<< HEAD
     <?php include 'header.html'?>
+=======
+    <?php include 'header.php'?>
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
     <div class="title">
     <div class="pre"></div>
         <div>
@@ -44,6 +48,9 @@
              alt="première pages du dossier sur les bons usages de la vidéoconférence">
             </a>
     </div>
+<<<<<<< HEAD
     <?php include 'footer.html'?>
+=======
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
 </body>
 </html>
