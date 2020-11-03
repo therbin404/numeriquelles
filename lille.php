@@ -247,9 +247,9 @@
         </div>
         <div class="program">
           <p>Merci de veiller à ce que toutes les contraintes techniques soient prises en compte avant le jour J afin que nous puissions tous profiter de ce forum dans les meilleures conditions.<br>
-          Nous comptons sur les encadrants pour jouer le rôle de modérateurafin d’animer et réguler les échanges en collaboration avec nospartenaires sur les ateliers.<br>
+          Nous comptons sur les encadrants pour jouer le rôle de modérateur afin d’animer et réguler les échanges en collaboration avec nos partenaires sur les ateliers.<br>
           Les jeunes filles pourront devenir « <a href="to_go_further.php" title="Ambassadrices du numériques">Ambassadrices du numérique</a> » en participant à ce nouveau concours.</p>
-          <p>Enfin, si certaines d’entre elles souhaitent prolonger leur expériencedu numérique, elles pourront trouver un stage proposé par nos entreprises partenaires (en fonction de l’évolution de la crise sanitaire) (lien vers page stage).</p>
+          <p>Enfin, si certaines d’entre elles souhaitent prolonger leur expérience du numérique, elles pourront trouver un <a href="stage.php" title="Trouver un stage">stage proposé par nos entreprises partenaires</a> (en fonction de l’évolution de la crise sanitaire).</p>
           <p>Les collèges</p>
           <ul>
             <li>8H30-9H00 : Début des connexions (tests de connexion, audio etvidéo)</li>

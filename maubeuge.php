@@ -117,17 +117,9 @@
         </div>
         <div class="program">
           <p>Merci de veiller à ce que toutes les contraintes techniques soient prises en compte avant le jour J afin que nous puissions tous profiter de ce forum dans les meilleures conditions.<br>
-          Nous comptons sur les encadrants pour jouer le rôle de modérateurafin d’animer et réguler les échanges en collaboration avec nospartenaires sur les ateliers.<br>
+          Nous comptons sur les encadrants pour jouer le rôle de modérateur afin d’animer et réguler les échanges en collaboration avec nos partenaires sur les ateliers.<br>
           Les jeunes filles pourront devenir « <a href="to_go_further.php" title="Ambassadrices du numériques">Ambassadrices du numérique</a> » en participant à ce nouveau concours.</p>
-          <p>Enfin, si certaines d’entre elles souhaitent prolonger leur expériencedu numérique, elles pourront trouver un stage proposé par nos entreprises partenaires (en fonction de l’évolution de la crise sanitaire) (lien vers page stage).</p>
-          <p>Les collèges</p>
-          <ul>
-            <li><a href="ressources/middle_school_rotation_lille.docx">Télécharger la feuille de route collèges</a></li>
-          </ul>
-          <p>Les Lycées</p>
-          <ul>
-            <li><a href="ressources/high_school_rotation_lille.docx">Télécharger la feuille de route lycées</a></li>
-          </ul>
+          <p>Enfin, si certaines d’entre elles souhaitent prolonger leur expérience du numérique, elles pourront trouver un <a href="stage.php" title="Trouver un stage">stage proposé par nos entreprises partenaires</a> (en fonction de l’évolution de la crise sanitaire).</p>
         </div>
         <div class="title">
           <div class="pre"></div>
