@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pour aller plus loin</title>
+    <title>Devenir ambassadrice</title>
     <link href="style.css" rel="stylesheet">
     <link href="go_further.css" rel="stylesheet">
 </head>
@@ -17,15 +17,15 @@
     <div class="title">
             <div class="pre"></div>
                 <div>
-                    <h2>Les ambassadrices du numerique</h2>
+                    <h2>Devenez Ambassadrices du Numérique</h2>
                 </div>
             <div class="bar"></div>
         </div>
     <section class="go_further_section1">
-        <p>Suite au forum Numériqu’elles du 8 novembre 2019,
-            il est proposé aux élèves des établissements ayant participé de réaliser une ou plusieurs productions
-            utilisant le numérique pour <strong>promouvoir ce secteur</strong> auprès des collégiennes et des lycéennes notamment.</p>
-        <p>L’objectif est de <strong>déconstruire les stéréotypes</strong>
+        <p>Devenez ambassadrices du numérique ! Vous venez de participer au forum Numériqu’elles 2020, il est proposé aux élèves 
+             des établissements ayant participé de réaliser <strong>une ou plusieurs productions</strong> utilisant le numérique 
+             pour promouvoir ce secteur auprès des collégiennes et des lycéennes notamment.</p>
+            <p>L’objectif est de <strong>déconstruire les stéréotypes</strong>
             liés au secteur du numérique en présentant par exemple un métier, une association,
             un parcours personnel et/ou professionnel, une action menée dans l’établissement en lien avec le forum.</p>
         <div class="list_center">
@@ -37,7 +37,6 @@
                 <li>diaporama,</li>
                 <li>questionnaire en ligne,</li>
                 <li>outils disponibles sur l’ENT : Madmagz, mur,</li>
-                <li>collaboratif, blog, cahier multimédia, pad.</li>
             </ul>
         </div>
     </section>
@@ -49,9 +48,8 @@
             Un jury se réunira courant février :
             les réalisations les plus réussies <strong>seront récompensées et serviront à la promotion du forum</strong> l’année
             prochaine.
-        <p>
-            Les établissements qui le souhaitent peuvent être accompagnés dans ce projet par la Délégation académique au
-            numérique éducatif :<br>
+        <p><strong>Les établissements qui le souhaitent peuvent être accompagnés dans ce projet par la Délégation académique au
+            numérique éducatif :</strong><br>
             ce.dane@ac-amiens.fr</p>
         <p>Chaque production, réalisée en groupe qui pourra être mixte, devra être accompagnée des éléments suivants
             (qui seront sur l’ENT) :</p>
