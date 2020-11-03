@@ -64,13 +64,10 @@
         </div>
         <div class="imagesObjectives">
           <div class="imageObjectives">
-            <img src="images/AnoukDesury-Numeriquelles2019-10 (1).jpg" alt="">
+            <img src="images/AnoukDesury-Numeriquelles2019-10 (1).jpg" alt="Collègiennes">
           </div>
           <div class="imageObjectives">
-            <img src="images/AnoukDesury-Numeriquelles2019-10 (1).jpg" alt="">
-          </div>
-          <div class="imageObjectives">
-            <img src="images/AnoukDesury-Numeriquelles2019-10 (1).jpg" alt="">
+            <img src="images/AnoukDesury-Numeriquelles2019-1.jpg" alt="Lycéennes">
           </div>
         </div>
       </section>
