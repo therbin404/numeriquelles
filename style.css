@@ -285,6 +285,12 @@ footer .logos div {
   width: 2em; 
 }
 
+.importantWord {
+  font-weight: bold;
+  color: rgba(103,50,141, 1);
+  font-size: 1.6rem;
+}
+
 @media screen and (min-width: 768px) and (max-width: 1000px) {
   footer {
     display: block;
