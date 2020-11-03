@@ -52,6 +52,11 @@ text-align: center;
     margin-left: 10%;
 }
 
+.first_image {
+    background-image: url('images/AnoukDesury-Numeriquelles2019-66.jpg');
+    background-position: 50% 40%;
+}
+
 @media screen and (max-width:768px){
     .text{
         margin-left:5%

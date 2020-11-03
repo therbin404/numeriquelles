@@ -5,6 +5,10 @@
 p {
     padding: 20px;
 }
+.first_image {
+    background-image: url('images/AnoukDesury-Numeriquelles2019-131.jpg');
+    background-position: 50% 40%;
+}
 .titleDecoration{
   font-size: 1.4rem;
 }
@@ -140,11 +144,4 @@ p {
     #our_ambition p{
         width: 45%;
     }
-<<<<<<< HEAD
-=======
-    .buttons{
-        font-size: 1.8rem;
-        align-items: flex-end;
-    }
->>>>>>> change text & legal notice text
 }

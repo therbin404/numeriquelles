@@ -35,3 +35,8 @@
   display: inline-block; 
   width: 2em; 
 }
+
+.first_image {
+    background-image: url('images/AnoukDesury-Numeriquelles2019-95.jpg');
+    background-position: 50% 50%;
+}

@@ -116,6 +116,7 @@ p {
 
 .boulogneHeader {
   background-image: url('images/ibm_stand.jpg');
+  background-position: 50% 40%;
 }
 
 .lensHeader {
@@ -128,4 +129,5 @@ p {
 
 .maubeugeHeader {
   background-image: url('images/girls.jpeg');
+  background-position: 50% 40%;
 }

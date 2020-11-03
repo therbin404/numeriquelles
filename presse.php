@@ -9,7 +9,8 @@
 </head>
 <body>
     <?php include 'header.html'?>
-        <div class="toppage"></div>
+    <div class="first_image">
+    </div>
     <section class="mainContent">
         <div class="title">
           <div class="pre"></div>
