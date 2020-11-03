@@ -59,7 +59,20 @@
           </div>
           <div class="bar"></div>
         </div>
-        <p>Pour répondre à cet enjeu le Corif organise Numériqu’elles depuis 2015 sous la forme d’ateliers dédiés aux collegiennes et lycéennes, pour faire découvrir les formations et métiers du numérique.</p>
+        <div class="contentObjectives">
+          <p>Pour répondre à cet enjeu le Corif organise Numériqu’elles depuis 2015 sous la forme d’ateliers dédiés aux collegiennes et lycéennes, pour faire découvrir les formations et métiers du numérique.</p>
+        </div>
+        <div class="imagesObjectives">
+          <div class="imageObjectives">
+            <img src="images/AnoukDesury-Numeriquelles2019-10 (1).jpg" alt="">
+          </div>
+          <div class="imageObjectives">
+            <img src="images/AnoukDesury-Numeriquelles2019-10 (1).jpg" alt="">
+          </div>
+          <div class="imageObjectives">
+            <img src="images/AnoukDesury-Numeriquelles2019-10 (1).jpg" alt="">
+          </div>
+        </div>
       </section>
       <section class="program">
         <div class="title">

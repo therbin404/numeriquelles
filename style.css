@@ -198,6 +198,24 @@ footer .logos div {
   color: rgba(103,50,141, 1);
 }
 
+.imagesObjectives {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.imageObjectives {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+}
+
+.imagesObjectives img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 .partners {
   margin: 45px 15px;
   display: flex;
@@ -292,6 +310,11 @@ footer .logos div {
 
   .title {
     font-size: 2.5rem;
+  }
+
+  .imageObjectives {
+    width: 400px;
+    height: 400px;
   }
 }
 
@@ -398,5 +421,10 @@ footer .logos div {
   
   .title {
     font-size: 2.5rem;
+  }
+
+  .imageObjectives {
+    width: 400px;
+    height: 400px;
   }
 }
