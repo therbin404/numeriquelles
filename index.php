@@ -23,11 +23,11 @@
           </div>
           <div class="bar"></div>
         </div>
-        <p>Dans les Hauts-de-France, 3000 emplois numériques sont non
-          pourvus chaque année et les femmes représentent seulement
-          33% des emplois du secteur et 18% des métiers informatiques.
-          Ces métiers restent mal connus et stéréotypés : maths, urbain,
-          geek... masculins.</p>
+        <p>Dans les Hauts-de-France, <span class="importantWord">3000 emplois</span> numériques sont <span class="importantWord">non
+          pourvus</span> chaque année et les <span class="importantWord">femmes</span> représentent seulement
+          33% des emplois du secteur et <span class="importantWord">18%</span> des métiers informatiques.
+          Ces métiers restent mal connus et <span class="importantWord">stéréotypés</span> : maths, urbain,
+          geek... <span class="importantWord">masculins</span>.</p>
       </section>
       <section class="numbers">
         <div>
@@ -60,7 +60,7 @@
           <div class="bar"></div>
         </div>
         <div class="contentObjectives">
-          <p>Pour répondre à cet enjeu le Corif organise Numériqu’elles depuis 2015 sous la forme d’ateliers dédiés aux collegiennes et lycéennes, pour faire découvrir les formations et métiers du numérique.</p>
+          <p>Pour répondre à cet enjeu le Corif organise <span class="importantWord">Numériqu’elles</span> depuis 2015 sous la forme d’ateliers <span class="importantWord">dédiés aux collegiennes et lycéennes</span>, pour faire <span class="importantWord">découvrir</span> les formations et métiers du numérique.</p>
         </div>
         <div class="imagesObjectives">
           <div class="imageObjectives">
