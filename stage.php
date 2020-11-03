@@ -22,7 +22,7 @@
           </div>
           <div class="bar"></div>
         </div>
-        <p>Si vous souhaitez prolonger votre expérience du numérique, vous pouvez trouver unstage proposé par les entreprises partenaires (en fonction de l’évolution de la crisesanitaire) en utilisant les plateformes de stage dédiées.</p>
+        <p>Si vous souhaitez prolonger votre expérience du numérique, vous pouvez trouver un <span class="importantWord">stage</span> proposé par les entreprises partenaires (en fonction de l’évolution de la crise sanitaire) en utilisant les <span class="importantWord">plateformes de stage dédiées</span>.</p>
         <ul>
           <li><a href="https://lenord.fr/jcms/prd1_667274/site-en-maintenance" title="​ Mon Stage 3ème">​Mon Stage 3ème</a></li>
           <li><a href="https://www.monstageenligne.fr/" title="Mon Stage En Ligne">Monstage en ligne</a></li>
@@ -37,11 +37,11 @@
           <div class="bar"></div>
         </div>
         <p>Vous souhaitez être accompagné dans votre recherche de stage ?<br>
-         Contactez ​Murielle Delrot​, Ingénieure pour l’école à la Délégation de Région Académique à la Formation Professionnelle Initiale et Continue.
+         Contactez <span class="importantWord">​Murielle Delrot</span>​, Ingénieure pour l’école à la Délégation de Région Académique à la Formation Professionnelle Initiale et Continue.
         </p>
         <div class="mailSection">
             <p>Murielle DELROT</p>
-            <p>03 20 15 60 29</p>
+            <p><span class="importantWord">03 20 15 60 29</span></p>
             <p><a href="murielle.delrot@region-academique-haut-de-france.fr" title="mail de murielle delrot">murielle.delrot@region-academique-haut-de-france.fr</a></p>
         </div>
     </section>
