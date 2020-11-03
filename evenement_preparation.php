@@ -8,7 +8,7 @@
     <title>Préparer Numériqu'elles</title>
 </head>
 <body>
-   <?php include 'header.php' ?> 
+   <?php include 'header.html' ?> 
    <div class="title">
     <div class="pre"></div>
         <div>
@@ -35,6 +35,6 @@
         Ces séquences clés-en-main sont indépendantes les unes des autres et s’inscrivent dans le cadre du <span class="bold">parcours Avenir</span>.</p>
     <img src="images/imageonisep.jpg" alt="image montrant un 
     homme avec des connéction entre ses main écarté dans le style matrix"class="img_onisep">
-    <?php include 'footer.php' ?>   
+    <?php include 'footer.html' ?>   
 </body>
 </html>

@@ -1,9 +1,11 @@
 h1{
-    margin: 5%;
     text-align: center;
 }
 h2{
     font-size: 1.4rem;
+}
+.discover{
+    text-align: center;
 }
 .toppage{
     height: 512px; 
@@ -11,117 +13,57 @@ h2{
     margin-bottom: 0;
     padding-top: 0;
 }
-.bold{
-    font-weight: 900;
-}
-.numberkey{
-    width: 100%;
-   display: grid;
-   grid-template-columns: 33% 33% 33%;
-   grid-template-rows: 50% 80% 50%;
-   text-align: center;
-   margin-bottom: 10%;
-}
-.numberone{
-    grid-column: 1;
-    grid-row: 1;
-}
-.numbertwo{
-    grid-column: 3;
-    grid-row:1;
-}
 .logo{
-    width: 100%;
-    height: 80%;
-    grid-column: 2;
-    grid-row: 2;
+    margin-left: 35%;
 }
-.numberthree{
-    grid-column: 1;
-    grid-row: 3;
-}
-.numberfour{
-    grid-column: 3;
-    grid-row: 3;
-}
- 
-.tallgreen{
-    font-size: 3rem;
-    color:#62D3A4;
-    font-weight: 900;
-}
-.tallpurple{
-    font-size: 3rem;
-    color: #67328D;
-    font-weight: 900;
+.keynumber{
+    height: 400px;
 }
 .onisep{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5%;
+margin-left: 35%;
 }
 .img_onisep{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-} 
-.barreviolette{
-    background-color: #67328D;
+    margin-top: 5%;
+    margin-left: 25%;
 }
 .text{
     margin-left: 100px;
     width: 80%;
     font-size: 1.6rem;
-    line-height: 1.5rem;
-    margin-bottom: 10%;
 }
-@media screen and (max-width:660px){
-.numberkey{
-    width: 100%;
-    display: grid;
-   grid-template-columns: 50% 50%;
-   grid-template-rows: 50% 100% 50%;
-   text-align: center;
-   margin-bottom: 20%;
-}
-.numberone{
-    grid-column: 1;
-    grid-row: 1;
-}
-.numbertwo{
-    grid-column: 2;
-    grid-row: 1;
-}
-.logo{
-    grid-column-start:1;
-    grid-column-end: 2;
-    grid-row: 2;
-    margin-left: 40%;
-}
-.numberthree{
-    grid-column: 1;
-    grid-row: 3;
-}
-.numberfour{
-    grid-column: 2;
-    grid-row: 3;
-}
-}
-@media screen and (max-width:485px){
-    .logo{
-        display:none
+@media screen and (max-width:1000px){
+    .text{
+      margin-left: 75px;
+      margin-top: 3%;
+      margin-bottom: 3%;
+      width: 60%;
     }
-    .numberkey{
-        width: 520px;
+    .imgalign{
+        width: 500px;
+        margin-left: 5%;
     }
     .onisep{
-        margin-top: 200px;
-        margin-left: 50%;
-        zoom: 0.6;
+        margin-left: 20%;
     }
-    .text{
-        width: 90%;
-        line-height: 2em;
-    }
+.img_onisep{
+        margin-top: 3%;
+        margin-left: 10%;
+        width: 400px;
 }
+}
+@media screen and (max-width:767px){
+.text{
+        margin-left: 50px;
+        width: 70%;
+}
+.imgalign{
+        width: 350px;
+}
+.onisep{
+    margin-left: 10%;
+}
+.img_onisep{
+    margin-left: 5%;
+    width: 300px;
+}
+} 
