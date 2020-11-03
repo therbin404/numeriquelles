@@ -5,13 +5,10 @@
 p {
     padding: 20px;
 }
-<<<<<<< HEAD
 .first_image{
-    background-image: url(./images/AnoukDesury-Numeriquelles2019-50.jpg);
+    background-image: url(./images/AnoukDesury-Numeriquelles2019-114.jpg);
     
 }
-=======
->>>>>>> 55fd71b60ec9a3132702e107531ed7239d5e9122
 .titleDecoration{
   font-size: 1.4rem;
 }
@@ -78,34 +75,31 @@ p {
     align-content: center;
     justify-content: space-around;
     margin-bottom: 50px;
-<<<<<<< HEAD
     font-size: 1.2rem;
+    text-decoration: none;
+    color: black;
 
 }
 #button_form_pdf{
-    width: 20%;
+    display: flex;
+    align-items: center;
     background-color: rgba(6, 214, 160, 0.5);
-    padding: 16px;
-=======
-
-}
-#button_form_pdf{
-    width: 120px;
-    background-color: rgba(6, 214, 160, 0.5);
-    padding: 5px;
->>>>>>> 55fd71b60ec9a3132702e107531ed7239d5e9122
-    text-align: center;
     border-radius: 20px;
-}
-#button_mcq_pdf{
-    background-color: rgba(112, 46, 146, 0.5);
-<<<<<<< HEAD
-    padding: 24px 15px 20px 15px;
-=======
+    justify-content: center;
     padding: 15px;
->>>>>>> 55fd71b60ec9a3132702e107531ed7239d5e9122
-    text-align: center;
+    min-width: 110px;
+    text-decoration:none;
+
+}
+
+#button_mcq_pdf{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(112, 46, 146, 0.5);
     border-radius: 20px;
+    padding: 15px;
+    min-width: 110px;
 }
 #background_our_ambitions{
     background-image: url(images/AnoukDesury-Numeriquelles2019-12.jpg);
@@ -136,12 +130,8 @@ p {
     .list_center{
         width: 90%;
     }
-<<<<<<< HEAD
     #button_mcq_pdf{
-        width: 20%;
     }
-=======
->>>>>>> 55fd71b60ec9a3132702e107531ed7239d5e9122
     .titleDecoration{
         font-size: 1.8;
     }
@@ -162,15 +152,11 @@ p {
     #our_ambition p{
         width: 45%;
     }
-<<<<<<< HEAD
     .buttons{
         font-size: 1.8rem;
         align-items: flex-end;
     }
 
     #button_mcq_pdf{
-        padding: 27px 18px 27px 18px;
     }
-=======
->>>>>>> 55fd71b60ec9a3132702e107531ed7239d5e9122
 }

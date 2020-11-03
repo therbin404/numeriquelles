@@ -2,9 +2,8 @@
     margin: 0px;
     padding: 0px;
 }
-.first_image img{
-    width: 100%;
-    height: 100%;
+.first_image {
+    background-image: url(./images/AnoukDesury-Numeriquelles2019-130.jpg);
 }
 .titleDecoration{
     font-size: 1.4rem ;
