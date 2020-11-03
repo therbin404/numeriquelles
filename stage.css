@@ -14,11 +14,24 @@
     font-size: 2.4rem;
 }
 
-.mainContent > p {
+.mainContent > p,
+.mainContent > ul {
     padding: 50px;
 }
 
 .mailSection p:last-child{
     display: flex;
     justify-content: center;
+}
+
+.mainContent li {
+  font-size: 1.4rem;
+}
+
+.mainContent li::before {
+  content: "\2022";  
+  color: #06D6A0; 
+  font-weight: bold; 
+  display: inline-block; 
+  width: 2em; 
 }

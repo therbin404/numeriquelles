@@ -24,10 +24,10 @@
         </div>
         <p>Si vous souhaitez prolonger votre expérience du numérique, vous pouvez trouver unstage proposé par les entreprises partenaires (en fonction de l’évolution de la crisesanitaire) en utilisant les plateformes de stage dédiées.</p>
         <ul>
-          <li><a href="https://lenord.fr/jcms/prd1_667274/site-en-maintenance" title="​ Mon Stage 3ème">​ Mon Stage 3ème</a></li>
+          <li><a href="https://lenord.fr/jcms/prd1_667274/site-en-maintenance" title="​ Mon Stage 3ème">​Mon Stage 3ème</a></li>
           <li><a href="https://www.monstageenligne.fr/" title="Mon Stage En Ligne">Monstage en ligne</a></li>
-          <li><a href="https://www.monstagedetroisieme.fr/" title="​ Monstage 3ème.fr​">​ Monstage 3ème.fr​</a></li>
-          <li><a href="https://stage3e.pasdecalais.fr/" title="https://stage3e.pasdecalais.fr/">https://stage3e.pasdecalais.fr/</a></li>
+          <li><a href="https://www.monstagedetroisieme.fr/" title="​ Monstage 3ème.fr​">​Monstage 3ème.fr​</a></li>
+          <li><a href="https://stage3e.pasdecalais.fr/" title="https://stage3e.pasdecalais.fr/">​Stage3èmepasdecalais.fr</a></li>
         </ul>
         <div class="title">
           <div class="pre"></div>
