@@ -97,12 +97,6 @@ p {
     padding: 15px;
     min-width: 110px;
 }
-#background_our_ambitions{
-    background-image: url(images/AnoukDesury-Numeriquelles2019-12.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
 #our_ambition{
     margin-top: 15px;
     padding: 30px 32px;
@@ -146,4 +140,11 @@ p {
     #our_ambition p{
         width: 45%;
     }
+<<<<<<< HEAD
+=======
+    .buttons{
+        font-size: 1.8rem;
+        align-items: flex-end;
+    }
+>>>>>>> change text & legal notice text
 }

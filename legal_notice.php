@@ -2,7 +2,6 @@
 <html lang="fr">
 
 <head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mentions légales</title>
     <link href="style.css" rel="stylesheet">
@@ -16,53 +15,40 @@
     <section class="mainContent">
         <div class="title">
             <div class="pre"></div>
-                <div>
-                    <h2>Mentions légales</h2>
-                </div>
+            <div>
+                <h2>Mentions légales</h2>
+            </div>
             <div class="bar"></div>
         </div>
         <section id="legal_notice">
-            <h2>Mentions légales</h2>
-            <p>dane.ac-lille.fr, conformément à la loi pour la confiance dans l’économie numérique n°2004-575 du 21 juin
-                2004.
-                Editeur : Direction des Systèmes d’Information – académie de Lille – Ministère de l’Éducation Nationale,
-                de
-                l’Enseignement Supérieur, de la Recherche et de l’Innovation.</p>
+            <p>Mentions légales pour le site ​(lien numériquelles)​, conformément à la loi pour la confiance dans
+                l’économie numérique n°2004-575 du 21 juin 2004.</p>
 
-            <p>110 avenue Gaston Berger, 59000 Lille</p>
-            Tel: 0320956900 – dsi@ac-lille.fr
+            <p><strong>Editeur </strong>: POP School, 8 rue Nicolas Leblanc 59000 Lille - popschool@pop.eu.com</p>
+                <p><strong>Directeur de publication </strong>: ​Stéphane Guidez, Délégation de Région Académique à l’Information et à
+                    l’Orientation</p><br>
+            <p><strong>Rédacteur</strong>: ​Maleka Dilmi, CORIF</p>
 
-            <p>Directeur de publication :</p>
+            <p><strong>Prestataire d’hébergement</strong> : Direction des Systèmes d’Information – académie de Lille</p>
 
-            ...
-
-            <p>Rédacteur :</p>
-
-            ...
-
-            <p>Prestataire d’hébergement : Direction des Systèmes d’Information – académie de Lille</p>
-
-            <p>Traitement de données à caractère personnel : Conformément aux articles 13 à 22 du règlement n° 2016/679,
+            <p>Traitement de données à caractère personnel : Conformément aux articles 13 à 22 durèglement n° 2016/679,
                 dit règlement général sur la protection des données (RGPD) du 27 avril 2016 et à l’article 32 et
                 suivants de
-                la loi 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, vous pouvez
-                vous
-                opposer (partiellement ou totalement) à la diffusion d’informations vous concernant sur ce site.</p>
+                la loi 78-17 du 6 janvier 1978 relative à l’informatique,
+                aux fichiers et aux libertés , vous pouvez vous opposer (partiellement ou totalement) à la
+                diffusiond’informations vous concernant sur ce site.</p>
 
-            <p>Pour exercer votre droit d’accès, de modification, de rectification, ion,
-                de limitation et de suppression de
-                données diffusées qui vous sont attachées (article 12 du règlement général
-                sur la protection des données), nous vous invitons à contacter le service suivant en
-                justifiant votre identité :</p>
-
-            <p></p>Pascale BOURBON,
-            déléguée académique à la protection des données<br> –
-            Tel: 03 20 15 67 96<br> – dpd@ac-lille.fr</p>
-
-            Il vous est loisible d’introduire une réclamation auprès de la commission nationale informatique et libertés
-            à l’aide du lien suivant :</p>
-            <a href="https://eduline.ac-lille.fr/rgpd/cnil-plaintes">https://eduline.ac-lille.fr/rgpd/cnil-plaintes</a></p>
-
+            <p>Pour exercer votre droit d’accès, de modification, de rectification, d’opposition, de limitation et de
+                suppression de données diffusées qui vous sont attachées
+                (article 12 du règlement généralsur la protection des données), nous vous invitons à contacter le
+                service
+                suivant en justifiant votre identité :</p><br>
+                Pascale BOURBON, déléguée académique à la protection des données – T 03 20 15 6796 –
+                    ​dpd@ac-lille.fr
+            <p>Il vous est loisible d’introduire une réclamation auprès de la commission nationale informatique et
+                libertés
+                à l’aide du lien suivant :
+                ​https://eduline.ac-lille.fr/rgpd/cnil-plaintes​.</p>
             </div>
         </section>
     </section>
