@@ -15,11 +15,11 @@
     </div>
     <section class="mainContent">
         <div class="title">
-          <div class="pre"></div>
-          <div>
-            <h2>Mentions légales</h2>
-          </div>
-          <div class="bar"></div>
+            <div class="pre"></div>
+                <div>
+                    <h2>Mentions légales</h2>
+                </div>
+            <div class="bar"></div>
         </div>
         <section id="legal_notice">
             <h2>Mentions légales</h2>
