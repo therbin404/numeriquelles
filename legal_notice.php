@@ -48,7 +48,7 @@
             <p>Il vous est loisible d’introduire une réclamation auprès de la commission nationale informatique et
                 libertés
                 à l’aide du lien suivant :
-                ​https://eduline.ac-lille.fr/rgpd/cnil-plaintes​.</p>
+                <a href="https://eduline.ac-lille.fr/rgpd/cnil-plaintes">​https://eduline.ac-lille.fr/rgpd/cnil-plaintes​</a>.</p>
             </div>
         </section>
     </section>
