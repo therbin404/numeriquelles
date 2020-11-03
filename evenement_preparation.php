@@ -9,42 +9,32 @@
 </head>
 <body>
    <?php include 'header.html' ?> 
-   <section class="mainContent">
-    <div class="titleDecoration">
-            <div class="title">
-                <div class="bar"></div>
-                <div>
-                <h1>PREPARER NUMERIQU'ELLES</h1>
-                </div>
-            </div>
+   <div class="title">
+    <div class="pre"></div>
+        <div>
+            <h2>Préparer Numériqu'elles </h2>
         </div>
-        <p class="text">Pourquoi les femmes renoncent-elles aux métiers du numérique et de 
-            l’informatique ? Les filles sont-elles des « handicapées du numérique
-            et de l’informatique » ? Il est vrai que les femmes sont aujourd’hui
-            sous-représentées dans les filières du numérique et de l’informatique
-            ; pourtant cela n’a pas toujours été le cas.
-        </p>
-        <div class="imgalign">
-            <img src="images/regard.png" alt="graphique qui montre que le regard des 
-            femmes ayant participé à l'événement à changer pour 86% d'entre elle">
-            <img src="images/orientation.png" alt="graphique qui montre l'influance 
-            sur l'orientation futur des participante, la moitier d'entre elle songe à 
-            s'orienté vers le numérique">
-            <img src="images/graphiquemétier.png" alt="graphique qui montre que 98 % 
-            d'entre elle on une meillleur connaissance du métier aprés l'évenement">
-            <img src="images/Satisfaction.png" alt="graphique qui montre que la 
-            moitié des participante à trouvé l'événement bien , un quart l'a trouvé 
-            super et le quart réstant n'a pas d'avis">
-            <h2>Découvrez les métiers avant les professionnels</h2>
-        </div>
-        <img src="images/onisep.png" alt="logos de l'onisep"class="onisep">
-        <p class="text">L’onisep Hauts de France site d’Amiens vous propose 8 séquences pédagogiques utiles pour préparer et exploiter les manifestations Numériqu’elles.
-        Destinées aux élèves de collège et/ou de lycée, ces séquences vont leur permettre d’identifier les stéréotypes liés aux métiers du numérique, de mettre en lumière des parcours de femmes dans ce secteur et d’amorcer une réflexion sur la construction de leur parcours d’orientation.
-        Ces séquences clés-en-main sont indépendantes les unes des autres et s’inscrivent dans le cadre du parcours Avenir.</p>
-        </div>
-        <img src="images/imageonisep.jpg" alt="image montrant un 
-        homme avec des connéction entre ses main écarté dans le style matrix"class="img_onisep">
-    </section>
+    <div class="bar"></div>
+</div>
+    <p class="text">Pourquoi les femmes <span class="blod">renoncent-elles</span> aux métiers du <span class="bold">numérique et de 
+        l’informatique ?</span> Les filles sont-elles des « handicapées du numérique
+         et de l’informatique » ? Il est vrai que les femmes sont aujourd’hui
+         <span class="bold"> sous-représentées </span>dans les filières du numérique et de l’informatique
+         ; pourtant cela n’a <span class="bold"> pas toujours été le cas</span>.
+    </p>
+    <div class="numberkey">
+        <p class="numberone"><span class="tallgreen">3/4</span><br>change de regard sur le numérique</p>
+        <p class="numbertwo"><span class="tallpurple">3/4</span><br>des paticipante on aimer l'événement</p>
+        <p class="numberthree"><span class="tallpurple">1/2</span><br>on l'idée de se tourner vers le numérique</p>
+        <p class="numberfour"><span class="tallgreen">9.8/10</span><br>on une meilleur connaissance des métiers</p>
+        <img src="images/logo.png" alt="logo de numériqu'elles"class="logo">
+    </div>
+    <img src="images/onisep.png" alt="logos de l'onisep"class="onisep">
+    <p class="text">L’onisep Hauts de France site d’Amiens vous propose 8 séquences pédagogiques utiles pour <span class="bold"> préparer et exploiter</span> les manifestations Numériqu’elles.
+        Destinées <span class="bold">aux élèves de collège et/ou de lycée</span>, ces séquences vont leur permettre d’identifier <span class="bold">les stéréotypes</span> liés aux métiers du <span class="bold">numérique</span>, de mettre en lumière des <span class="bold">parcours de femmes dans ce secteur</span> et d’amorcer une réflexion sur la construction de leur parcours d’orientation.
+        Ces séquences clés-en-main sont indépendantes les unes des autres et s’inscrivent dans le cadre du <span class="bold">parcours Avenir</span>.</p>
+    <img src="images/imageonisep.jpg" alt="image montrant un 
+    homme avec des connéction entre ses main écarté dans le style matrix"class="img_onisep">
     <?php include 'footer.html' ?>   
 </body>
 </html>

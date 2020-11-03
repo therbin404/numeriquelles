@@ -1,0 +1,111 @@
+img{
+    width: 300px;
+<<<<<<< HEAD
+    height: 450px;
+=======
+    height: 300px;
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
+    margin:5%;
+}
+p{
+    font-size: 1.4rem;
+    text-align: center;
+}
+.container{
+<<<<<<< HEAD
+    width: 100%;
+=======
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
+    display: flex;
+    justify-content: space-around;
+    background-color: #DAE9F6;
+    padding: 5%;
+}
+<<<<<<< HEAD
+.bold{
+    font-weight: 700;
+}
+=======
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
+.containertwo{
+    background-color: #DAE9F6;
+    display: flex;
+    justify-content: center;
+<<<<<<< HEAD
+    margin-top: 5%;
+}
+.bloctext{
+    display: block;
+    line-height: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (max-width:770px) {
+    .text{
+        display: block;
+    }
+=======
+}
+.bloctext{
+    line-height: 2rem;
+    margin:3%;
+}
+@media screen and (max-width:770px) {
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
+    img{
+        margin: 0;
+    }
+    p{
+        font-size: 1.2rem;
+    }
+    .container{
+<<<<<<< HEAD
+        width: 100%;
+        flex-wrap: wrap;
+        height: 1000px;
+=======
+        flex-wrap: wrap;
+        height: 800px;
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
+        margin-right: auto;
+        margin-left: auto;
+
+    }
+    .containertwo img{
+<<<<<<< HEAD
+        width: 100%;
+=======
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+}
+@media screen and (max-width:330px) {
+    img{
+        height: 200px;
+        width: 200px;
+        margin: 2%;
+    }
+<<<<<<< HEAD
+    .text{
+        width: 100%;
+        display: block;
+    }
+    .container{
+        width: 100%;
+=======
+    .container{
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
+        flex-wrap: wrap;
+        height: 600px;
+    }
+    .containertwo{
+<<<<<<< HEAD
+        width: 100%;
+=======
+>>>>>>> 9020212f29d8b31ac5644e5dd3785fb5fddaf4a8
+        padding: 5%;
+        padding-left: 15%;
+    }
+}
