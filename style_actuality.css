@@ -1,6 +1,6 @@
 img{
     width: 300px;
-    height: 300px;
+    height: 450px;
     margin:5%;
 }
 p{
@@ -8,21 +8,31 @@ p{
     text-align: center;
 }
 .container{
+    width: 100%;
     display: flex;
     justify-content: space-around;
     background-color: #DAE9F6;
     padding: 5%;
 }
+.bold{
+    font-weight: 700;
+}
 .containertwo{
     background-color: #DAE9F6;
     display: flex;
     justify-content: center;
+    margin-top: 5%;
 }
 .bloctext{
+    display: block;
     line-height: 2rem;
-    margin:3%;
+    margin-left: auto;
+    margin-right: auto;
 }
 @media screen and (max-width:770px) {
+    .text{
+        display: block;
+    }
     img{
         margin: 0;
     }
@@ -30,13 +40,15 @@ p{
         font-size: 1.2rem;
     }
     .container{
+        width: 100%;
         flex-wrap: wrap;
-        height: 800px;
+        height: 1000px;
         margin-right: auto;
         margin-left: auto;
 
     }
     .containertwo img{
+        width: 100%;
         margin-left: auto;
         margin-right: auto;
     
@@ -48,11 +60,17 @@ p{
         width: 200px;
         margin: 2%;
     }
+    .text{
+        width: 100%;
+        display: block;
+    }
     .container{
+        width: 100%;
         flex-wrap: wrap;
         height: 600px;
     }
     .containertwo{
+        width: 100%;
         padding: 5%;
         padding-left: 15%;
     }
