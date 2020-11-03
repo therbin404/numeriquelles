@@ -65,8 +65,8 @@
         </ul>
     </section>
     <div class="buttons">
-        <div id="button_form_pdf"><a href="ambassadrices_du_numerique.pdf">Formulaire d'inscription</a></div>
-        <div id="button_mcq_pdf"><a href="questionnaire.pdf">Questionnaire</a></div>
+        <div id="button_form_pdf"><a href="ressources/ambassadrices_du_numerique.pdf">Formulaire d'inscription</a></div>
+        <div id="button_mcq_pdf"><a href="ressources/questionnaire.docx">Questionnaire</a></div>
     </div>
     <div id="background_our_ambitions">
         <div id="our_ambition">
