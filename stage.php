@@ -18,11 +18,26 @@
         <div class="title">
           <div class="pre"></div>
           <div>
+            <h2>Stages</h2>
+          </div>
+          <div class="bar"></div>
+        </div>
+        <p>Si vous souhaitez prolonger votre expérience du numérique, vous pouvez trouver unstage proposé par les entreprises partenaires (en fonction de l’évolution de la crisesanitaire) en utilisant les plateformes de stage dédiées.</p>
+        <ul>
+          <li><a href="https://lenord.fr/jcms/prd1_667274/site-en-maintenance" title="​ Mon Stage 3ème">​ Mon Stage 3ème</a></li>
+          <li><a href="https://www.monstageenligne.fr/" title="Mon Stage En Ligne">Monstage en ligne</a></li>
+          <li><a href="https://www.monstagedetroisieme.fr/" title="​ Monstage 3ème.fr​">​ Monstage 3ème.fr​</a></li>
+          <li><a href="https://stage3e.pasdecalais.fr/" title="https://stage3e.pasdecalais.fr/">https://stage3e.pasdecalais.fr/</a></li>
+        </ul>
+        <div class="title">
+          <div class="pre"></div>
+          <div>
             <h2>Contact</h2>
           </div>
           <div class="bar"></div>
         </div>
-        <p>Dans une volonté de découvrir de plus prêt les métiers du numérique vous souhaitez ou êtes déjà en stage dans une entreprise du numérique mais vous avez besoin de conseils ou une réponse à vos question. Madame DELROT Murielle sera répondre à vos interrogations. 
+        <p>Vous souhaitez être accompagné dans votre recherche de stage ?<br>
+         Contactez ​Murielle Delrot​, Ingénieure pour l’école à la Délégation de Région Académique à la Formation Professionnelle Initiale et Continue.
         </p>
         <div class="mailSection">
             <p>Murielle DELROT</p>
