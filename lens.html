@@ -9,9 +9,78 @@
   </head>
   <body>
 
-    <?php
-      require_once('header.html');
-    ?>
+    <header>
+    <nav>
+        <div class="logo">
+          <a href="index.html" title="Vers la page d'accueil"><img src="images/logo.svg" alt="numeriqu'elles"></a>
+        </div>
+        <div class="menu">
+          <div class="desktop">
+            <ul class="firstLevel" id="firstLevel">
+              <li>
+                <a href="evenement_preparation.html" title="Préparer Numériqu’elles">Préparer Numériqu’elles</a>
+              </li>
+              <li>
+                <a href="to_go_further.html" title="Devenir Ambassadrice">Devenir Ambassadrice</a>
+              </li>
+              <li>
+                <a href="stage.html" tilte="Banque de stage">Stages</a>
+              </li>
+              <li id="menuSecondLevel">
+                <span>Les évenements</span>
+                <ul class="secondLevel" id="secondLevel">
+                  <li>
+                    <a href="lille.html" title="Lille">Lille<br>6 Novembre</a>
+                  </li>
+                  <li>
+                    <a href="maubeuge.html" title="Maubeuge">Maubeuge<br>17 Novembre</a>
+                  </li>
+                  <li>
+                    <a href="boulogne.html" title="Boulogne">Boulogne<br>24 Novembre</a>
+                  </li>
+                  <li>
+                    <a href="lens.html" title="Lens">Lens<br>11 Décembre</a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="responsive">
+            <img src="images/menu.svg" alt="menu" id="menu">
+            <ul class="firstLevel" id="firstLevel">
+              <li>
+                <a href="evenement_preparation.html" title="Préparer Numériqu’elles">Préparer Numériqu’elles</a>
+              </li>
+              <li>
+                <a href="to_go_further.html" title="Devenir Ambassadrice">Devenir Ambassadrice</a>
+              </li>
+              <li>
+                <a href="stage.html" tilte="Banque de stage">Stages</a>
+              </li>
+              <li id="menuSecondLevel">
+                <span>Les évenements</span>
+                <ul class="secondLevel" id="secondLevel">
+                  <li>
+                    <a href="lille.html" title="Lille">Lille - 6 Novembre</a>
+                  </li>
+                  <li>
+                    <a href="maubeuge.html" title="Maubeuge">Maubeuge - 17 Novembre</a>
+                  </li>
+                  <li>
+                    <a href="boulogne.html" title="Boulogne">Boulogne - 24 Novembre</a>
+                  </li>
+                  <li>
+                    <a href="lens.html" title="Lens">Lens - 11 Décembre</a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="placement"></div>
+        <script type="text/javascript" src="script/menu.js"></script>
+    </nav>
+</header>
     <div class="first_image lensHeader">
     </div>
     <section class="mainContent">
@@ -68,8 +137,8 @@
         <div class="program">
           <p>Merci de veiller à ce que toutes les contraintes techniques soient prises en compte avant le jour J afin que nous puissions tous profiter de ce forum dans les meilleures conditions.<br>
           Nous comptons sur les encadrants pour jouer le rôle de modérateur afin d’animer et réguler les échanges en collaboration avec nos partenaires sur les ateliers.<br>
-          Les jeunes filles pourront devenir « <a href="to_go_further.php" title="Ambassadrices du numériques">Ambassadrices du numérique</a> » en participant à ce nouveau concours.</p>
-          <p>Enfin, si certaines d’entre elles souhaitent prolonger leur expérience du numérique, elles pourront trouver un <a href="stage.php" title="Trouver un stage">stage proposé par nos entreprises partenaires</a> (en fonction de l’évolution de la crise sanitaire).</p>
+          Les jeunes filles pourront devenir « <a href="to_go_further.html" title="Ambassadrices du numériques">Ambassadrices du numérique</a> » en participant à ce nouveau concours.</p>
+          <p>Enfin, si certaines d’entre elles souhaitent prolonger leur expérience du numérique, elles pourront trouver un <a href="stage.html" title="Trouver un stage">stage proposé par nos entreprises partenaires</a> (en fonction de l’évolution de la crise sanitaire).</p>
         </div>
         <div class="title">
           <div class="pre"></div>
@@ -101,9 +170,24 @@
     </section>
 
 
-    <?php
-      require_once('footer.html');
-    ?>
+    <footer>
+  <div class="logos">
+    <div class="logo">
+      <img src="images/logo.svg" alt="numeriqu'elles">
+    </div>
+  </div>
+  <ul>
+    <li>
+      <a href="legal_notice.html" title="Mentions légales">Mentions légales</a>
+    </li>
+    <li>
+      <a href="news.html" title="Actualités">Actualités</a>
+    </li>
+    <li>
+      <a href="presse.html" title="Revue de presse">Revue de presse</a>
+    </li>
+  </ul>
+</footer>
 
   </body>
 </html>
